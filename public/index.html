@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CHALLENGE COMPLETED // THE LAST DATASET</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800;900&family=Rajdhani:wght@500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #03060a;
+      --card-bg: rgba(6, 11, 18, 0.75);
+      --border: rgba(56, 189, 248, 0.25);
+      --cyan: #00f0ff;
+      --amber: #f59e0b;
+      --red: #ff334b;
+      --purple: #a855f7;
+      --green: #10b981;
+      --text-muted: #8899a6;
+      --text-main: #f8fafc;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html, body {
+      width: 100%;
+      min-height: 100vh;
+      background-color: var(--bg);
+      color: var(--text-main);
+      font-family: 'Rajdhani', -apple-system, sans-serif;
+      overflow-x: hidden;
+      position: relative;
+    }
+
+    /* Ambient Background Canvas */
+    #bg-canvas {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 0;
+      pointer-events: none;
+    }
+
+    /* CRT Scanlines Overlay */
+    .crt-overlay {
+      position: fixed;
+      inset: 0;
+      background: linear-gradient(
+        rgba(18, 16, 16, 0) 50%, 
+        rgba(0, 0, 0, 0.35) 50%
+      ), linear-gradient(
+        90deg,
+        rgba(255, 0, 0, 0.03),
+        rgba(0, 255, 0, 0.01),
+        rgba(0, 0, 255, 0.03)
+      );
+      background-size: 100% 3px, 6px 100%;
+      pointer-events: none;
+      z-index: 50;
+      opacity: 0.6;
+    }
+
+    /* Vignette */
+    .vignette {
+      position: fixed;
+      inset: 0;
+      box-shadow: inset 0 0 120px rgba(0, 0, 0, 0.95);
+      pointer-events: none;
+      z-index: 51;
+    }
+
+    /* Main Container */
+    .viewport {
+      position: relative;
+      z-index: 10;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 1.5rem;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    /* Top Telemetry Header */
+    .telemetry-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.8rem;
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 0.85rem;
+      color: var(--cyan);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      background: linear-gradient(90deg, rgba(0,240,255,0.05) 0%, transparent 100%);
+      padding-left: 0.5rem;
+    }
+
+    .telemetry-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: rgba(255, 51, 75, 0.15);
+      border: 1px solid rgba(255, 51, 75, 0.4);
+      color: var(--red);
+      padding: 0.25rem 0.75rem;
+      border-radius: 2px;
+      font-weight: 700;
+      animation: pulse-red 2s infinite ease-in-out;
+    }
+
+    .pulse-dot {
+      width: 8px;
+      height: 8px;
+      background-color: var(--red);
+      border-radius: 50%;
+      box-shadow: 0 0 10px var(--red);
+    }
+
+    /* Center Stage / Hero */
+    .hero-stage {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      margin: 2.5rem 0;
+      position: relative;
+    }
+
+    /* Cyber Card Box */
+    .cyber-frame {
+      position: relative;
+      background: var(--card-bg);
+      border: 1px solid rgba(56, 189, 248, 0.3);
+      padding: 3rem 2.5rem;
+      border-radius: 4px;
+      box-shadow: 0 0 50px rgba(0, 240, 255, 0.08), inset 0 0 30px rgba(0, 0, 0, 0.7);
+      backdrop-filter: blur(12px);
+      max-width: 960px;
+      width: 100%;
+    }
+
+    /* Corner Accents */
+    .corner-bracket {
+      position: absolute;
+      width: 16px;
+      height: 16px;
+      border-color: var(--cyan);
+      border-style: solid;
+      pointer-events: none;
+    }
+    .top-left { top: -2px; left: -2px; border-width: 3px 0 0 3px; }
+    .top-right { top: -2px; right: -2px; border-width: 3px 3px 0 0; }
+    .bottom-left { bottom: -2px; left: -2px; border-width: 0 0 3px 3px; }
+    .bottom-right { bottom: -2px; right: -2px; border-width: 0 3px 3px 0; }
+
+    /* Tactical Eyebrow */
+    .eyebrow {
+      font-family: 'Share Tech Mono', monospace;
+      color: var(--amber);
+      font-size: 0.95rem;
+      letter-spacing: 0.25em;
+      margin-bottom: 1.2rem;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.8rem;
+    }
+    .eyebrow::before, .eyebrow::after {
+      content: "";
+      width: 40px;
+      height: 1px;
+      background: rgba(245, 158, 11, 0.4);
+    }
+
+    /* Massive Main Announcement */
+    .main-title {
+      font-family: 'Orbitron', 'Rajdhani', sans-serif;
+      font-size: clamp(1.8rem, 4.2vw, 3.4rem);
+      font-weight: 900;
+      line-height: 1.2;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #ffffff;
+      text-shadow: 0 0 25px rgba(0, 240, 255, 0.6), 0 0 50px rgba(0, 240, 255, 0.2);
+      margin-bottom: 1.2rem;
+      position: relative;
+    }
+
+    .main-title .highlight {
+      background: linear-gradient(135deg, #00f0ff 0%, #38bdf8 50%, #bc8cff 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      display: block;
+      margin-top: 0.4rem;
+    }
+
+    /* Glitch effect on title */
+    .glitch-text {
+      position: relative;
+      display: inline-block;
+    }
+
+    /* Subtitle description */
+    .sub-manifesto {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: clamp(0.95rem, 1.6vw, 1.2rem);
+      color: #94a3b8;
+      max-width: 780px;
+      margin: 0 auto 2.2rem auto;
+      line-height: 1.7;
+      letter-spacing: 0.04em;
+    }
+
+    .sub-manifesto em {
+      color: #f1f5f9;
+      font-style: normal;
+      font-weight: 600;
+    }
+
+    /* Sector Status Grid */
+    .sectors-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 0.75rem;
+      margin-top: 1.5rem;
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+      padding-top: 1.8rem;
+    }
+
+    .sector-node {
+      background: rgba(15, 23, 42, 0.6);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      padding: 0.8rem 0.5rem;
+      border-radius: 2px;
+      font-family: 'Share Tech Mono', monospace;
+      text-transform: uppercase;
+      transition: all 0.3s ease;
+    }
+
+    .sector-node .name {
+      font-size: 0.75rem;
+      letter-spacing: 0.15em;
+      margin-bottom: 0.3rem;
+      display: block;
+    }
+
+    .sector-node .status {
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+    }
+
+    .sector-node[data-sector="yellow"] { border-color: rgba(245, 197, 24, 0.3); }
+    .sector-node[data-sector="yellow"] .name { color: #f5c518; }
+    .sector-node[data-sector="yellow"] .status { color: #fef08a; }
+
+    .sector-node[data-sector="blue"] { border-color: rgba(86, 200, 255, 0.3); }
+    .sector-node[data-sector="blue"] .name { color: #56c8ff; }
+    .sector-node[data-sector="blue"] .status { color: #bae6fd; }
+
+    .sector-node[data-sector="orange"] { border-color: rgba(255, 139, 61, 0.3); }
+    .sector-node[data-sector="orange"] .name { color: #ff8b3d; }
+    .sector-node[data-sector="orange"] .status { color: #fed7aa; }
+
+    .sector-node[data-sector="red"] { border-color: rgba(255, 64, 88, 0.3); }
+    .sector-node[data-sector="red"] .name { color: #ff4058; }
+    .sector-node[data-sector="red"] .status { color: #fecdd3; }
+
+    .sector-node[data-sector="purple"] { border-color: rgba(188, 140, 255, 0.3); }
+    .sector-node[data-sector="purple"] .name { color: #bc8cff; }
+    .sector-node[data-sector="purple"] .status { color: #e9d5ff; }
+
+    /* Audio Waveform Visualizer */
+    .waveform-panel {
+      margin-top: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .waveform-label {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+    }
+
+    #wave-canvas {
+      width: 100%;
+      max-width: 500px;
+      height: 36px;
+    }
+
+    /* Footer Info */
+    .telemetry-footer {
+      border-top: 1px solid var(--border);
+      padding-top: 1rem;
+      margin-top: 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .footer-left {
+      display: flex;
+      align-items: center;
+      gap: 1.2rem;
+    }
+
+    .footer-stamp {
+      color: var(--cyan);
+      font-weight: 700;
+    }
+
+    /* Animations */
+    @keyframes pulse-red {
+      0%, 100% {
+        box-shadow: 0 0 10px rgba(255, 51, 75, 0.2);
+        border-color: rgba(255, 51, 75, 0.4);
+      }
+      50% {
+        box-shadow: 0 0 20px rgba(255, 51, 75, 0.5);
+        border-color: rgba(255, 51, 75, 0.8);
+      }
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .viewport { padding: 1rem; }
+      .cyber-frame { padding: 2rem 1.2rem; }
+      .telemetry-header { flex-direction: column; gap: 0.5rem; text-align: center; }
+      .telemetry-footer { flex-direction: column; text-align: center; justify-content: center; }
+      .sectors-bar { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</head>
+<body>
+  <!-- Ambient Canvas Background -->
+  <canvas id="bg-canvas"></canvas>
+
+  <!-- CRT Scanlines and Edge Vignette -->
+  <div class="crt-overlay"></div>
+  <div class="vignette"></div>
+
+  <!-- Content Viewport -->
+  <div class="viewport">
+    
+    <!-- Top System Telemetry -->
+    <header class="telemetry-header">
+      <div>
+        <span>SURVIVOR NETWORK // CENTRAL COMMAND</span>
+        <span style="opacity: 0.4; margin: 0 0.5rem;">|</span>
+        <span style="color: var(--text-muted);">FREQ: 142.800 MHz</span>
+      </div>
+      <div class="telemetry-badge">
+        <span class="pulse-dot"></span>
+        <span>ACCESS FROZEN // EVENT CONCLUDED</span>
+      </div>
+    </header>
+
+    <!-- Main Stage Frame -->
+    <main class="hero-stage">
+      <div class="cyber-frame">
+        <!-- Corner Brackets -->
+        <div class="corner-bracket top-left"></div>
+        <div class="corner-bracket top-right"></div>
+        <div class="corner-bracket bottom-left"></div>
+        <div class="corner-bracket bottom-right"></div>
+
+        <!-- Tactical Eyebrow -->
+        <div class="eyebrow">
+          <span>MISSION TELEMETRY TERMINATED</span>
+        </div>
+
+        <!-- Glitch Main Title -->
+        <h1 class="main-title glitch-text" id="glitch-title">
+          CHALLENGE COMPLETED.
+          <span class="highlight">THANK YOU FOR PARTICIPATING IN THE LAST DATASET.</span>
+        </h1>
+
+        <!-- Manifesto Body -->
+        <p class="sub-manifesto">
+          The 24-Hour Recovery Window has closed. All telemetry, dataset reconstructions, and machine-learning evaluation gates have been <em>locked and committed to the immutable archive</em>. Further playing is prohibited with immediate effect.
+        </p>
+
+        <!-- Waveform Visualizer -->
+        <div class="waveform-panel">
+          <div class="waveform-label">CARRIER SIGNAL // TRANSMISSION ARCHIVED</div>
+          <canvas id="wave-canvas"></canvas>
+        </div>
+
+        <!-- Sector Status Lockdown Matrix -->
+        <div class="sectors-bar">
+          <div class="sector-node" data-sector="yellow">
+            <span class="name">Yellow Sector</span>
+            <span class="status">QUARANTINED</span>
+          </div>
+          <div class="sector-node" data-sector="blue">
+            <span class="name">Blue Sector</span>
+            <span class="status">SUBMERGED</span>
+          </div>
+          <div class="sector-node" data-sector="orange">
+            <span class="name">Orange Sector</span>
+            <span class="status">EXTINGUISHED</span>
+          </div>
+          <div class="sector-node" data-sector="red">
+            <span class="name">Red Sector</span>
+            <span class="status">CONTAINED</span>
+          </div>
+          <div class="sector-node" data-sector="purple">
+            <span class="name">Purple Sector</span>
+            <span class="status">SEALED</span>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Bottom Telemetry Footer -->
+    <footer class="telemetry-footer">
+      <div class="footer-left">
+        <span class="footer-stamp">PRALAYA CORE ARCHIVE</span>
+        <span>MANIPAL INSTITUTE OF TECHNOLOGY</span>
+        <span>TECHTATVA 2026</span>
+      </div>
+      <div>
+        <span>RECORD INTEGRITY VERIFIED // ALL DATA SECURED</span>
+      </div>
+    </footer>
+
+  </div>
+
+  <script>
+    // -----------------------------------------------------------------
+    // 1. Interactive Radar, Starfield, and Cyber Grid Animation
+    // -----------------------------------------------------------------
+    (function initBackgroundCanvas() {
+      const canvas = document.getElementById('bg-canvas');
+      const ctx = canvas.getContext('2d');
+      let width, height;
+
+      function resize() {
+        width = canvas.width = window.innerWidth;
+        height = canvas.height = window.innerHeight;
+      }
+      window.addEventListener('resize', resize);
+      resize();
+
+      // Particle system
+      const PARTICLE_COUNT = 75;
+      const particles = [];
+      for (let i = 0; i < PARTICLE_COUNT; i++) {
+        particles.push({
+          x: Math.random() * width,
+          y: Math.random() * height,
+          vx: (Math.random() - 0.5) * 0.45,
+          vy: (Math.random() - 0.5) * 0.45,
+          size: Math.random() * 1.8 + 0.6,
+          alpha: Math.random() * 0.7 + 0.2,
+          pulse: Math.random() * Math.PI * 2
+        });
+      }
+
+      let radarAngle = 0;
+
+      function draw() {
+        ctx.fillStyle = '#03060a';
+        ctx.fillRect(0, 0, width, height);
+
+        // Cyber Grid Lines (subtle perspective / radar grid)
+        ctx.strokeStyle = 'rgba(56, 189, 248, 0.035)';
+        ctx.lineWidth = 1;
+        const gridSize = 50;
+        const offsetX = (Date.now() * 0.005) % gridSize;
+        const offsetY = (Date.now() * 0.005) % gridSize;
+
+        for (let x = offsetX; x < width; x += gridSize) {
+          ctx.beginPath();
+          ctx.moveTo(x, 0);
+          ctx.lineTo(x, height);
+          ctx.stroke();
+        }
+        for (let y = offsetY; y < height; y += gridSize) {
+          ctx.beginPath();
+          ctx.moveTo(0, y);
+          ctx.lineTo(width, y);
+          ctx.stroke();
+        }
+
+        // Radar Circles from Center
+        const cx = width / 2;
+        const cy = height / 2;
+        const maxRadius = Math.max(width, height) * 0.65;
+
+        for (let r = 120; r < maxRadius; r += 140) {
+          ctx.beginPath();
+          ctx.arc(cx, cy, r, 0, Math.PI * 2);
+          ctx.strokeStyle = 'rgba(0, 240, 255, 0.03)';
+          ctx.stroke();
+        }
+
+        // Radar Sweep Line
+        radarAngle += 0.008;
+        const sweepX = cx + Math.cos(radarAngle) * maxRadius;
+        const sweepY = cy + Math.sin(radarAngle) * maxRadius;
+        const grad = ctx.createRadialGradient(cx, cy, 10, cx, cy, maxRadius);
+        grad.addColorStop(0, 'rgba(0, 240, 255, 0.15)');
+        grad.addColorStop(1, 'rgba(0, 240, 255, 0)');
+
+        ctx.beginPath();
+        ctx.moveTo(cx, cy);
+        ctx.arc(cx, cy, maxRadius, radarAngle - 0.25, radarAngle);
+        ctx.lineTo(cx, cy);
+        ctx.fillStyle = grad;
+        ctx.fill();
+
+        // Crosshairs at center
+        ctx.strokeStyle = 'rgba(0, 240, 255, 0.18)';
+        ctx.beginPath();
+        ctx.moveTo(cx - 30, cy); ctx.lineTo(cx + 30, cy);
+        ctx.moveTo(cx, cy - 30); ctx.lineTo(cx, cy + 30);
+        ctx.stroke();
+
+        // Draw and connect particles
+        for (let i = 0; i < particles.length; i++) {
+          const p = particles[i];
+          p.x += p.vx;
+          p.y += p.vy;
+          if (p.x < 0) p.x = width;
+          if (p.x > width) p.x = 0;
+          if (p.y < 0) p.y = height;
+          if (p.y > height) p.y = 0;
+          p.pulse += 0.02;
+
+          const currentAlpha = p.alpha * (0.6 + 0.4 * Math.sin(p.pulse));
+
+          ctx.beginPath();
+          ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
+          ctx.fillStyle = `rgba(0, 240, 255, ${currentAlpha})`;
+          ctx.fill();
+
+          // Connect nearby particles
+          for (let j = i + 1; j < particles.length; j++) {
+            const p2 = particles[j];
+            const dx = p.x - p2.x;
+            const dy = p.y - p2.y;
+            const dist = Math.sqrt(dx * dx + dy * dy);
+            if (dist < 100) {
+              ctx.beginPath();
+              ctx.moveTo(p.x, p.y);
+              ctx.lineTo(p2.x, p2.y);
+              ctx.strokeStyle = `rgba(56, 189, 248, ${(1 - dist / 100) * 0.12})`;
+              ctx.stroke();
+            }
+          }
+        }
+
+        requestAnimationFrame(draw);
+      }
+      draw();
+    })();
+
+    // -----------------------------------------------------------------
+    // 2. Audio Transmission Waveform Visualizer
+    // -----------------------------------------------------------------
+    (function initWaveform() {
+      const canvas = document.getElementById('wave-canvas');
+      const ctx = canvas.getContext('2d');
+      canvas.width = 500;
+      canvas.height = 36;
+
+      const bars = 48;
+      let phase = 0;
+
+      function renderWave() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        phase += 0.04;
+
+        const barWidth = canvas.width / bars;
+        for (let i = 0; i < bars; i++) {
+          const distanceToCenter = Math.abs(i - bars / 2) / (bars / 2);
+          const damping = 1 - Math.pow(distanceToCenter, 1.5);
+          
+          // Harmonic wave simulation
+          const h1 = Math.sin(i * 0.35 + phase) * 10;
+          const h2 = Math.cos(i * 0.6 - phase * 1.3) * 6;
+          const h3 = Math.sin(phase * 2 + i * 0.1) * 3;
+          const height = Math.max(3, (Math.abs(h1 + h2 + h3) * damping));
+
+          const x = i * barWidth;
+          const y = (canvas.height - height) / 2;
+
+          const grad = ctx.createLinearGradient(0, y, 0, y + height);
+          grad.addColorStop(0, '#00f0ff');
+          grad.addColorStop(0.5, '#38bdf8');
+          grad.addColorStop(1, '#a855f7');
+
+          ctx.fillStyle = grad;
+          ctx.fillRect(x + 2, y, barWidth - 4, height);
+        }
+        requestAnimationFrame(renderWave);
+      }
+      renderWave();
+    })();
+
+    // -----------------------------------------------------------------
+    // 3. Subtle periodic cyber glitch effect on title
+    // -----------------------------------------------------------------
+    (function initGlitch() {
+      const title = document.getElementById('glitch-title');
+      setInterval(() => {
+        if (!title) return;
+        title.style.transform = `translate(${(Math.random() - 0.5) * 4}px, ${(Math.random() - 0.5) * 3}px)`;
+        title.style.filter = 'drop-shadow(2px 0 #ff0055) drop-shadow(-2px 0 #00ffff)';
+        setTimeout(() => {
+          title.style.transform = 'none';
+          title.style.filter = 'none';
+        }, 120);
+      }, 4200);
+    })();
+  </script>
+</body>
+</html>

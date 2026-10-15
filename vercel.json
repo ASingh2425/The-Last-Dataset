@@ -1,0 +1,28 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/server.js?_path=/api/$1"
+    },
+    {
+      "source": "/purple(.*)",
+      "destination": "/purple/index.html"
+    },
+    {
+      "source": "/admin(.*)",
+      "destination": "/admin/index.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "functions": {
+    "server.js": {
+      "maxDuration": 30,
+      "includeFiles": "{public/**,config/**,server_data/**,data/**}"
+    }
+  }
+}

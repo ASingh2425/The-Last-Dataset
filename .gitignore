@@ -1,0 +1,15 @@
+.env
+node_modules/
+data/progress.json
+*.log
+playwright-report/
+test-results/
+.vercel/
+.env.local
+.env.*
+!.env.example
+coverage/
+.DS_Store
+repos/
+server_data/private_answers.csv
+server_data/*private*

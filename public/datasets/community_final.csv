@@ -1,0 +1,121 @@
+Sanctuary_ID,Current_Role,Housing_Assignment,Housing_Status,Duty_Rotation,Duty_Assignment_Status,Clinic_Visit_Count,Last_Clinic_Visit_Reason,Group_Activity_Participation_Score,Missed_Checkins_Count,Notices_Received_Count,Incident_Reports_Count,Incident_Report_Type,System_Note,Registry_Recognition_Flag,Last_Seen_Location,Record_Completeness_Score,Days_Since_Last_Update,Duty_Ref,Status_Index
+SANC-0091,Analyst,H-04,active,B,active,3,none,0.787985797578829,3,4,1,injury,Routine,recognized,Clinic,0.8557432775145994,0,Not Logged,Stable
+SANC-0092,Medic,H-04,unknown,D,active,3,none,0.06635242607017866,3,2,2,equipment,Routine,partial,Duty Station,0.8974207252598723,1,DR-A,Pending Review
+SANC-0093,Medic,H-02,lost,B,unassigned,4,none,0.882921197447902,2,3,0,none,Routine,unrecognized,Duty Station,0.790372602222974,3,DR-D,Stable
+SANC-0094,Runner,H-06,active,C,assigned,1,injury,0.8269608848192612,0,2,1,none,Registry sync pending,recognized,Clinic,0.931594426163542,2,Not Logged,Stable
+SANC-0095,Analyst,H-02,assigned,D,unassigned,1,routine,0.7223678751433157,2,1,1,dispute,Routine,recognized,Residential Ring,0.8885723002787675,1,DR-D,Stable
+SANC-0096,Medic,H-06,unknown,B,assigned,4,routine,0.4577395725606595,1,0,2,equipment,Routine,recognized,Common Hall,0.8491376116702347,2,DR-A,Stable
+SANC-0097,Analyst,H-01,active,A,active,5,routine,0.6095642699831492,3,4,3,unexplained_absence,Record requires review,recognized,Workshop,0.881483615553769,3,DR-A,Partial Data
+SANC-0098,Medic,H-02,assigned,B,active,0,none,0.8750052508257825,0,2,1,injury,Routine,recognized,Residential Ring,0.812064005683413,1,DR-D,Stable
+SANC-0099,Runner,H-01,assigned,D,assigned,1,none,0.9566026494714028,4,3,3,injury,Registry sync pending,recognized,Clinic,0.6776667077816813,4,DR-C,Partial Data
+SANC-0100,Analyst,H-06,active,A,active,3,stress,0.7933455459800334,1,4,1,none,Routine,partial,Clinic,0.9753262239758199,0,Not Logged,Stable
+SANC-0101,Medic,H-01,lost,A,active,2,none,0.610765194577301,1,2,1,injury,Record requires review,partial,Clinic,0.8275728174307186,1,Not Logged,Partial Data
+SANC-0102,Builder,H-04,active,B,active,2,routine,0.6898112787146082,3,3,2,none,Routine,recognized,Residential Ring,0.916447323775008,1,DR-B,Unverified
+SANC-0103,Builder,H-03,assigned,A,active,2,none,0.4090987420026948,1,0,1,none,Routine,partial,Duty Station,0.8892432309838754,1,DR-C,Stable
+SANC-0104,Analyst,H-02,active,C,assigned,4,none,0.7455695551253129,0,3,0,none,Routine,partial,Residential Ring,0.7714383630196571,2,DR-D,Stable
+SANC-0105,Medic,H-03,assigned,B,active,5,injury,0.8929498435312386,3,2,1,unexplained_absence,Record requires review,recognized,Duty Station,0.8862229508101079,1,DR-B,Stable
+SANC-0106,Runner,H-05,active,C,unassigned,2,injury,0.42083947299716373,3,1,1,equipment,Routine,recognized,Workshop,0.8679998490023154,0,DR-A,Partial Data
+SANC-0107,Builder,H-04,lost,A,unassigned,3,routine,0.3732038961624931,4,3,3,none,Resident responded to citywide emergency alert,partial,Workshop,0.7536604948600419,4,DR-C,Stable
+SANC-0108,Medic,H-02,active,D,active,1,routine,0.8119799518854697,3,2,1,equipment,Routine,recognized,Duty Station,0.8249068535510576,1,DR-D,Stable
+SANC-0109,Runner,H-01,assigned,D,assigned,5,none,0.6485524430640235,2,0,0,none,Routine,recognized,Common Hall,0.9168611646259802,2,DR-B,Stable
+SANC-0110,Runner,H-03,active,D,assigned,3,routine,0.8313146310910625,2,3,3,none,Routine,recognized,Residential Ring,0.7361835930013493,3,DR-A,Stable
+SANC-0111,Analyst,H-01,lost,C,assigned,3,none,0.6609812964779376,2,2,1,none,Routine,recognized,Residential Ring,0.9671070845764698,0,DR-B,Partial Data
+SANC-0112,Analyst,H-01,assigned,C,active,2,none,0.4465518527973876,5,4,3,unexplained_absence,Resident responded to citywide emergency alert,recognized,Residential Ring,0.7245161246162262,3,Not Logged,Unclear
+SANC-0113,Runner,H-06,unknown,C,active,3,none,0.5231616417940967,3,3,0,none,Resident responded to citywide emergency alert,recognized,Workshop,0.6606466829557663,3,DR-B,Stable
+SANC-0114,Builder,H-06,assigned,B,active,2,injury,0.5373630205379774,2,3,2,dispute,Routine,partial,Duty Station,0.9170878387051836,0,DR-C,Stable
+SANC-0115,Runner,H-04,active,D,active,2,routine,0.32843223345700184,3,3,0,none,Routine,partial,Duty Station,0.7214257440044612,3,DR-A,Stable
+SANC-0116,Analyst,H-02,assigned,A,active,3,stress,0.31114679871001083,3,1,2,none,Registry sync pending,unrecognized,Common Hall,0.7068236239568613,2,DR-D,Stable
+SANC-0117,Medic,H-03,active,C,active,3,routine,0.23150608888254198,2,2,2,injury,Resident responded to citywide emergency alert,recognized,Residential Ring,0.871714723680397,1,Not Logged,Stable
+SANC-0118,Builder,H-06,assigned,B,active,2,none,0.8258866704908875,1,3,1,dispute,Resident responded to citywide emergency alert,recognized,Common Hall,0.9457112690720406,1,DR-C,Pending Review
+SANC-0119,Builder,H-06,unknown,D,active,2,routine,0.577132769011168,2,3,0,injury,Routine,recognized,Workshop,0.8715451913033085,4,DR-C,Stable
+SANC-0120,Runner,H-05,assigned,B,active,1,stress,0.5560159566085909,0,3,2,injury,Registry sync pending,unrecognized,Duty Station,0.984348903364308,0,DR-A,Stable
+SANC-0001,Runner,H-06,active,B,active,3,injury,0.6737958466626246,0,1,1,equipment,Resident responded to citywide emergency alert,recognized,Workshop,0.7343224477230254,2,DR-B,Stable
+SANC-0002,Runner,H-06,unknown,B,active,7,routine,0.768609266466579,2,3,2,none,Routine,recognized,Common Hall,0.908761926091274,3,DR-C,Pending Review
+SANC-0003,Analyst,H-04,assigned,D,active,2,routine,0.5646155379059256,1,1,1,equipment,Routine,recognized,Workshop,0.99,1,DR-A,Unclear
+SANC-0004,Runner,H-04,assigned,C,active,4,none,0.6606599387050498,1,4,1,none,Routine,recognized,Workshop,0.7602980943914566,0,Not Logged,Stable
+SANC-0005,Builder,H-04,active,A,active,0,routine,0.7426517095490555,2,2,1,injury,Routine,recognized,Workshop,0.7913190054916334,2,DR-A,Stable
+SANC-0006,Medic,H-05,assigned,D,lost,2,stress,0.08858264611154501,7,4,2,none,Resident responded to citywide emergency alert,recognized,Workshop,0.8329962250501712,1,DR-B,Partial Data
+SANC-0007,Analyst,H-03,assigned,C,active,4,stress,0.7540664082544593,3,2,3,equipment,Routine,recognized,Clinic,0.9336622933681472,1,DR-C,Stable
+SANC-0008,Medic,H-06,assigned,C,assigned,3,routine,0.5782881478182406,1,2,1,injury,Routine,recognized,Duty Station,0.8829446200857441,1,Not Logged,Stable
+SANC-0009,Runner,H-03,active,A,lost,2,routine,0.778370780071448,3,3,1,none,Routine,unrecognized,Common Hall,0.6913703625254959,3,DR-B,Stable
+SANC-0010,Runner,H-02,assigned,C,assigned,2,none,0.8430681023514021,2,2,0,none,Routine,recognized,Duty Station,0.9437228880797855,1,DR-A,Partial Data
+SANC-0011,Runner,H-01,assigned,D,active,4,routine,0.3225376613432767,4,3,2,none,Routine,recognized,Residential Ring,0.8643092094208438,1,DR-B,Partial Data
+SANC-0012,Medic,H-05,unknown,D,unassigned,2,routine,0.8382318147865965,3,2,0,dispute,Resident responded to citywide emergency alert,recognized,Clinic,0.99,0,DR-D,Pending Review
+SANC-0013,Builder,H-05,assigned,A,active,3,routine,0.29208826266726345,4,2,3,none,Registry sync pending,recognized,Residential Ring,0.8274677634346624,1,DR-C,Unverified
+SANC-0014,Builder,H-05,assigned,B,active,1,routine,0.6207147815481738,0,2,1,injury,Registry sync pending,recognized,Duty Station,0.8728272741651857,1,DR-A,Unverified
+SANC-0015,Runner,H-03,unknown,B,active,0,routine,0.309826005680423,3,4,4,none,Routine,recognized,Clinic,0.8026693894014476,2,DR-A,Stable
+SANC-0016,Analyst,H-05,unknown,B,active,4,injury,0.8133365869421414,2,3,1,dispute,Routine,recognized,Common Hall,0.99,2,Not Logged,Unclear
+SANC-0017,Builder,H-01,active,C,active,4,stress,0.9143793649518972,2,3,2,dispute,Resident responded to citywide emergency alert,recognized,Workshop,0.8135184122337112,3,DR-D,Unclear
+SANC-0018,Analyst,H-03,assigned,C,assigned,2,injury,0.7280110569495356,3,3,0,unexplained_absence,Record requires review,recognized,Clinic,0.8754805267769605,0,DR-C,Pending Review
+SANC-0019,Medic,H-05,active,A,active,6,routine,0.7073262507940207,3,2,1,none,Routine,partial,Duty Station,0.6732539127344654,2,DR-B,Stable
+SANC-0020,Analyst,H-06,assigned,D,active,2,stress,0.5104806747432533,4,2,3,none,Registry sync pending,partial,Residential Ring,0.8627591722948644,2,DR-C,Unclear
+SANC-0021,Medic,H-05,assigned,A,assigned,5,routine,0.3189779741466006,4,3,2,none,Resident responded to citywide emergency alert,recognized,Residential Ring,0.7400294767936064,3,DR-C,Partial Data
+SANC-0022,Builder,H-01,assigned,D,active,4,injury,0.5122680340582879,3,3,3,none,Routine,recognized,Duty Station,0.7755776646420783,3,DR-D,Partial Data
+SANC-0023,Builder,H-02,unknown,A,active,3,none,0.8855995523012736,5,4,0,unexplained_absence,Registry sync pending,partial,Clinic,0.7923003714469383,2,DR-A,Unverified
+SANC-0024,Analyst,H-02,assigned,B,assigned,1,none,0.4221367446199915,3,3,0,none,Resident responded to citywide emergency alert,recognized,Residential Ring,0.7851436553136281,2,DR-D,Partial Data
+SANC-0025,Medic,H-02,active,A,active,4,none,0.5047643748818426,2,0,1,none,Resident responded to citywide emergency alert,unrecognized,Residential Ring,0.8994007643933706,1,DR-D,Stable
+SANC-0026,Builder,H-02,assigned,A,active,6,routine,0.6923672404754092,1,4,3,none,Routine,recognized,Duty Station,0.9037170356776689,1,DR-D,Stable
+SANC-0027,Analyst,H-06,unknown,A,unassigned,6,routine,0.5289813382631525,4,3,3,none,Registry sync pending,recognized,Workshop,0.8431072783201345,4,DR-B,Stable
+SANC-0028,Builder,H-06,active,C,active,6,injury,0.6909198469468191,2,3,1,none,Registry sync pending,recognized,Common Hall,0.8779849534953325,1,DR-C,Stable
+SANC-0029,Analyst,H-05,active,D,assigned,1,stress,0.7885150396808189,3,3,2,none,Routine,recognized,Common Hall,0.8220162240330069,2,DR-A,Partial Data
+SANC-0030,Medic,H-01,assigned,D,active,1,routine,0.99,2,3,2,injury,Resident responded to citywide emergency alert,partial,Clinic,0.9615170781188099,1,DR-B,Unverified
+SANC-0031,Runner,H-04,unknown,B,assigned,2,stress,0.3064739484269391,2,2,2,none,Routine,unrecognized,Duty Station,0.7511619576989453,2,DR-C,Stable
+SANC-0032,Runner,H-06,assigned,B,active,3,routine,0.8494378705458843,1,2,2,dispute,Routine,recognized,Residential Ring,0.8800849101955629,1,DR-B,Stable
+SANC-0033,Runner,H-02,active,B,active,3,none,0.8868775837495879,2,1,0,dispute,Routine,partial,Duty Station,0.99,0,DR-A,Stable
+SANC-0034,Medic,H-05,assigned,D,active,3,none,0.7815248369390158,1,2,0,dispute,Registry sync pending,recognized,Residential Ring,0.8630602568110696,0,DR-D,Partial Data
+SANC-0035,Analyst,H-06,assigned,D,active,3,none,0.3499740339015444,2,4,3,injury,Routine,partial,Clinic,0.8714193464014482,2,DR-B,Partial Data
+SANC-0036,Builder,H-03,active,D,lost,2,none,0.7312971651839663,4,3,1,none,Resident responded to citywide emergency alert,recognized,Common Hall,0.6931325298837563,4,DR-C,Stable
+SANC-0037,Medic,H-06,assigned,A,active,1,stress,0.2666311447550258,4,4,1,injury,Routine,recognized,Residential Ring,0.99,1,DR-D,Stable
+SANC-0038,Analyst,H-01,active,A,unassigned,2,none,0.5657563153389525,3,5,1,none,Routine,recognized,Common Hall,0.8413881263906775,0,DR-C,Unverified
+SANC-0039,Runner,H-03,assigned,B,active,0,injury,0.9016752789493927,3,0,0,equipment,Registry sync pending,recognized,Duty Station,0.99,2,DR-A,Stable
+SANC-0040,Builder,H-02,assigned,C,active,6,routine,0.4799290931550235,2,3,2,none,Routine,partial,Residential Ring,0.7671041244233622,1,Not Logged,Pending Review
+SANC-0041,Medic,H-02,assigned,C,unassigned,1,none,0.5633047857247115,4,2,2,none,Routine,recognized,Workshop,0.7877896312928093,2,DR-B,Stable
+SANC-0042,Builder,H-03,assigned,D,active,3,none,0.9497359970284506,5,5,5,equipment,Resident responded to citywide emergency alert,recognized,Residential Ring,0.8794467672384508,5,DR-C,Partial Data
+SANC-0043,Analyst,H-03,assigned,D,active,5,injury,0.3923081306398051,3,4,0,equipment,Routine,recognized,Residential Ring,0.8135943095114007,2,DR-A,Stable
+SANC-0044,Builder,H-04,assigned,A,active,1,routine,0.7204468896700418,4,2,1,none,Resident responded to citywide emergency alert,recognized,Workshop,0.8418831124369923,2,DR-A,Stable
+SANC-0045,Builder,H-03,assigned,C,active,4,routine,0.27720724285275544,2,3,3,injury,Registry sync pending,recognized,Duty Station,0.6463148112872725,2,DR-C,Partial Data
+SANC-0046,Builder,H-03,active,A,assigned,4,none,0.8190854676023029,2,1,2,none,Routine,recognized,Common Hall,0.7811989085997271,2,DR-A,Partial Data
+SANC-0047,Runner,H-05,assigned,C,unassigned,5,none,0.7037866654034128,4,6,1,equipment,Routine,recognized,Duty Station,0.6983977325553978,2,Not Logged,Stable
+SANC-0048,Runner,H-02,active,B,unassigned,2,routine,0.9780888880404808,2,0,1,injury,Routine,recognized,Duty Station,0.958647521574965,1,DR-A,Unverified
+SANC-0049,Runner,H-03,assigned,D,active,3,routine,0.657128950295252,3,0,0,none,Registry sync pending,unrecognized,Duty Station,0.9776841445755757,1,Not Logged,Pending Review
+SANC-0050,Runner,H-05,assigned,D,lost,1,none,0.4146644508179339,5,2,2,unexplained_absence,Routine,recognized,Clinic,0.7890500968700431,3,DR-B,Unclear
+SANC-0051,Medic,H-04,assigned,C,unassigned,0,stress,0.6985067820722509,4,4,2,none,Routine,recognized,Clinic,0.793926022231063,2,DR-C,Stable
+SANC-0052,Runner,H-02,assigned,B,assigned,2,routine,0.7524026533681237,0,3,1,dispute,Routine,recognized,Common Hall,0.8609255273412615,0,DR-D,Partial Data
+SANC-0053,Runner,H-01,unknown,A,active,1,none,0.6319766654447015,2,2,0,unexplained_absence,Resident responded to citywide emergency alert,recognized,Residential Ring,0.904029187335938,2,DR-C,Stable
+SANC-0054,Runner,H-01,active,B,lost,2,injury,0.5916555347473903,1,2,1,injury,Resident responded to citywide emergency alert,partial,Residential Ring,0.99,0,DR-C,Unclear
+SANC-0055,Analyst,H-03,active,D,active,4,routine,0.6066346784070296,3,2,2,equipment,Routine,recognized,Duty Station,0.8341555171354961,1,DR-C,Pending Review
+SANC-0056,Medic,H-06,active,D,active,2,none,0.6106970147343863,3,3,1,none,Record requires review,recognized,Workshop,0.817466264659729,3,DR-B,Unverified
+SANC-0057,Runner,H-02,assigned,A,unassigned,4,routine,0.6057914161682832,4,1,2,injury,Routine,recognized,Duty Station,0.6361659804789905,3,DR-D,Pending Review
+SANC-0058,Runner,H-06,unknown,D,active,2,injury,0.6396675117137995,1,0,0,none,Record requires review,recognized,Residential Ring,0.9233749259569641,0,DR-B,Pending Review
+SANC-0059,Runner,H-01,active,C,active,3,injury,0.17034291527072914,4,4,2,none,Registry sync pending,unrecognized,Residential Ring,0.9304225752953188,0,DR-D,Pending Review
+SANC-0060,Medic,H-01,assigned,D,unassigned,0,none,0.4235206494386963,4,3,2,dispute,Routine,unrecognized,Workshop,0.904662764647666,2,DR-B,Stable
+SANC-0061,Builder,H-02,assigned,A,active,6,routine,0.7672163991432186,2,2,2,none,Resident responded to citywide emergency alert,recognized,Common Hall,0.8924787163505923,3,DR-C,Pending Review
+SANC-0062,Runner,H-03,active,A,active,3,routine,0.8895977287399102,2,2,2,dispute,Registry sync pending,recognized,Residential Ring,0.8214282836225751,2,DR-C,Pending Review
+SANC-0063,Builder,H-05,assigned,B,active,3,none,0.38932519522061093,3,4,2,none,Registry sync pending,partial,Duty Station,0.6045201818637973,4,DR-C,Pending Review
+SANC-0064,Medic,H-01,active,D,active,3,injury,0.47096083632229946,2,0,3,equipment,Registry sync pending,recognized,Clinic,0.8612452296182446,0,DR-B,Partial Data
+SANC-0065,Medic,H-05,assigned,D,unassigned,1,none,0.99,2,1,0,none,Routine,recognized,Clinic,0.8173687681340095,3,DR-B,Partial Data
+SANC-0066,Builder,H-06,active,A,active,2,routine,0.5095636858937507,4,4,1,dispute,Record requires review,recognized,Clinic,0.7351935266926434,4,DR-D,Pending Review
+SANC-0067,Analyst,H-04,assigned,D,assigned,4,routine,0.7784236739655406,0,3,0,injury,Registry sync pending,recognized,Clinic,0.8586629840037013,0,DR-D,Pending Review
+SANC-0068,Runner,H-06,lost,C,assigned,1,none,0.8001792943391355,3,0,2,none,Routine,partial,Workshop,0.8021700712388313,0,Not Logged,Stable
+SANC-0069,Analyst,H-03,active,D,active,0,injury,0.6500097161039877,2,2,2,dispute,Resident responded to citywide emergency alert,recognized,Workshop,0.8304988280403748,1,DR-D,Stable
+SANC-0070,Medic,H-03,assigned,A,active,2,none,0.45378350025967507,3,2,1,injury,Routine,recognized,Residential Ring,0.8992652582467485,1,DR-D,Stable
+SANC-0071,Medic,H-05,active,B,assigned,2,routine,0.8537596201742533,1,4,1,none,Registry sync pending,recognized,Duty Station,0.8604409426230187,1,DR-D,Stable
+SANC-0072,Medic,H-05,active,B,active,3,stress,0.8956479055000951,3,2,2,injury,Registry sync pending,recognized,Residential Ring,0.8246430548819185,4,DR-D,Stable
+SANC-0073,Builder,H-05,assigned,C,active,3,none,0.6293851769938662,5,4,2,dispute,Record requires review,unrecognized,Residential Ring,0.830800913605346,4,DR-A,Unclear
+SANC-0074,Runner,H-01,active,C,assigned,5,none,0.9634984495490033,2,2,0,none,Registry sync pending,unrecognized,Residential Ring,0.8456239428776975,1,DR-B,Stable
+SANC-0075,Builder,H-05,assigned,A,assigned,3,none,0.4536387275183626,2,3,2,unexplained_absence,Routine,partial,Common Hall,0.9094665809182748,2,DR-C,Stable
+SANC-0076,Builder,H-02,assigned,D,assigned,3,none,0.4390784738203127,2,2,0,none,Registry sync pending,recognized,Clinic,0.714486283362641,1,DR-B,Stable
+SANC-0077,Runner,H-05,active,A,active,1,routine,0.6444715304446523,3,1,0,none,Routine,partial,Common Hall,0.9056279503888781,1,DR-D,Partial Data
+SANC-0078,Builder,H-03,assigned,B,active,2,none,0.5014862659587791,4,3,2,dispute,Routine,recognized,Residential Ring,0.7164265294057767,5,DR-D,Unclear
+SANC-0079,Analyst,H-03,assigned,B,active,2,routine,0.7569587222581917,2,3,0,none,Resident responded to citywide emergency alert,recognized,Clinic,0.8784151272112019,0,DR-A,Unclear
+SANC-0080,Runner,H-06,assigned,C,active,2,none,0.4546000073957955,3,1,2,dispute,Routine,recognized,Residential Ring,0.875252609613037,3,DR-D,Stable
+SANC-0081,Runner,H-05,active,D,active,3,stress,0.9192117924231591,2,2,1,none,Registry sync pending,recognized,Duty Station,0.7855386922961353,0,DR-C,Pending Review
+SANC-0082,Runner,H-06,active,B,assigned,2,injury,0.99,3,3,1,none,Record requires review,partial,Clinic,0.706039564915018,0,DR-A,Stable
+SANC-0083,Analyst,H-01,unknown,A,assigned,3,injury,0.4458002649285433,0,1,1,unexplained_absence,Resident responded to citywide emergency alert,recognized,Common Hall,0.8379024576778749,1,DR-B,Pending Review
+SANC-0084,Medic,H-06,active,A,active,0,routine,0.8824854058527966,1,3,0,none,Routine,recognized,Residential Ring,0.6197770978667875,3,DR-A,Partial Data
+SANC-0085,Runner,H-06,active,A,assigned,3,none,0.7623041776275287,2,2,1,none,Registry sync pending,partial,Workshop,0.7737295717358577,0,DR-C,Partial Data
+SANC-0086,Analyst,H-01,active,B,unassigned,3,routine,0.99,2,1,2,none,Record requires review,recognized,Residential Ring,0.816072246799716,1,DR-B,Partial Data
+SANC-0087,Analyst,H-03,assigned,B,active,0,injury,0.32671499552157324,4,2,2,unexplained_absence,Routine,recognized,Common Hall,0.7937796256941468,2,Not Logged,Stable
+SANC-0088,Runner,H-02,active,B,active,7,stress,0.3101925077204509,6,4,4,unexplained_absence,Routine,recognized,Clinic,0.8473279768897682,4,DR-A,Unverified
+SANC-0089,Analyst,H-04,assigned,C,unassigned,3,none,0.3467275272213851,3,2,1,dispute,Routine,recognized,Workshop,0.99,0,DR-D,Stable
+SANC-0090,Analyst,H-02,assigned,D,active,2,injury,0.20373670801372398,7,4,5,none,Resident responded to citywide emergency alert,unrecognized,Workshop,0.8353122076022685,3,DR-C,Partial Data

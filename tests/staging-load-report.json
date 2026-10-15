@@ -1,0 +1,111 @@
+{
+  "timestamp": "2026-10-13T06:07:59.890Z",
+  "config": {
+    "teams": 400,
+    "participants": 800,
+    "concurrency": 40,
+    "storageMode": "local-filesystem",
+    "productionRateLimitsActive": true,
+    "rateLimits": {
+      "apiMax": 10000,
+      "loginMax": 5000
+    }
+  },
+  "results": {
+    "totalRequests": 8562,
+    "durationSeconds": 114.51,
+    "throughputReqSec": 75,
+    "errorCount": 0,
+    "http429Count": 400,
+    "http5xxCount": 0,
+    "statusCodes": {
+      "200": 7762,
+      "400": 400,
+      "429": 400
+    },
+    "latencies": {
+      "min": 8,
+      "avg": 555,
+      "p50": 513,
+      "p90": 926,
+      "p95": 1152,
+      "p99": 1490,
+      "max": 2475
+    },
+    "endpoints": {
+      "/api/register": {
+        "requests": 1200,
+        "successes": 1200,
+        "failures": 0,
+        "p50": 438,
+        "p99": 836
+      },
+      "/api/leaderboard": {
+        "requests": 162,
+        "successes": 162,
+        "failures": 0,
+        "p50": 417,
+        "p99": 1322
+      },
+      "/api/zone/complete": {
+        "requests": 2000,
+        "successes": 2000,
+        "failures": 0,
+        "p50": 581,
+        "p99": 1000
+      },
+      "/api/dev/solve": {
+        "requests": 1600,
+        "successes": 1600,
+        "failures": 0,
+        "p50": 594,
+        "p99": 1518
+      },
+      "/api/dataset/community_final": {
+        "requests": 400,
+        "successes": 400,
+        "failures": 0,
+        "p50": 386,
+        "p99": 1215
+      },
+      "/api/dataset/radio_final": {
+        "requests": 400,
+        "successes": 400,
+        "failures": 0,
+        "p50": 371,
+        "p99": 964
+      },
+      "/api/dataset/forensics_final": {
+        "requests": 400,
+        "successes": 400,
+        "failures": 0,
+        "p50": 395,
+        "p99": 1018
+      },
+      "/api/dataset/train": {
+        "requests": 400,
+        "successes": 400,
+        "failures": 0,
+        "p50": 359,
+        "p99": 1137
+      },
+      "/api/ml/evaluate": {
+        "requests": 1200,
+        "successes": 1200,
+        "failures": 0,
+        "p50": 684,
+        "p99": 1738
+      },
+      "/api/bootstrap": {
+        "requests": 800,
+        "successes": 800,
+        "failures": 0,
+        "p50": 496,
+        "p99": 1248
+      }
+    },
+    "leaderboardQualifiedTeams": 400,
+    "allTeamsAtCanonical3100": true,
+    "passed": true
+  }
+}

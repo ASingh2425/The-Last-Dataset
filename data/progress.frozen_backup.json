@@ -1,0 +1,5475 @@
+{
+  "teams": {
+    "TECHTEAM10923": {
+      "id": "TECHTEAM10923",
+      "name": "Team 10923",
+      "passcode": "TLD-Y4ATGY",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12993"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12993",
+          "name": "ACHINT SINGH",
+          "is_leader": true,
+          "reg_no": "251090051188",
+          "college": "Manipal Institute of Technology",
+          "phone": "7028081836",
+          "email": "achintsingh40@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ACHINT SINGH",
+      "leaderMobile": "7028081836",
+      "leaderEmail": "achintsingh40@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11671": {
+      "id": "TECHTEAM11671",
+      "name": "Team 11671",
+      "passcode": "TLD-52877F",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [
+        "yellow-01",
+        "blue-zone-ctf-01",
+        "blue-zone-ctf-02",
+        "blue-zone-ctf-03",
+        "blue-zone-ctf-04"
+      ],
+      "events": [],
+      "members": [
+        "12162",
+        "11413"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12162",
+          "name": "YASHWITH SHEKARA POOJARY",
+          "is_leader": false,
+          "reg_no": "251090050054",
+          "college": "Manipal Institute of Technology",
+          "phone": "9686838158",
+          "email": "an8880541882@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11413",
+          "name": "M ABHAY KAMATH",
+          "is_leader": true,
+          "reg_no": "251090050002",
+          "college": "Manipal Institute of Technology",
+          "phone": "9686334512",
+          "email": "abhaykamath08@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "M ABHAY KAMATH",
+      "leaderMobile": "9686334512",
+      "leaderEmail": "abhaykamath08@gmail.com",
+      "completedZones": [
+        "sanctuary",
+        "yellow",
+        "blue"
+      ],
+      "score": 700,
+      "sanctuaryCompleted": true,
+      "datasets": [
+        "community_final",
+        "radio_final"
+      ]
+    },
+    "TECHTEAM10305": {
+      "id": "TECHTEAM10305",
+      "name": "Team 10305",
+      "passcode": "TLD-CNGL4G",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12312",
+        "12302"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12312",
+          "name": "NITHARSHINI V S",
+          "is_leader": false,
+          "reg_no": "261090050442",
+          "college": "Manipal Institute of Technology",
+          "phone": "9980531079",
+          "email": "nitharshinivs@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12302",
+          "name": "HIMAANI PATHI",
+          "is_leader": true,
+          "reg_no": "261090240002",
+          "college": "Manipal Institute of Technology",
+          "phone": "9632015177",
+          "email": "himaani2007@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "HIMAANI PATHI",
+      "leaderMobile": "9632015177",
+      "leaderEmail": "himaani2007@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10046": {
+      "id": "TECHTEAM10046",
+      "name": "Team 10046",
+      "passcode": "TLD-GBF4LE",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10154",
+        "10975"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10154",
+          "name": "NEVAAN AGGARWAL",
+          "is_leader": false,
+          "reg_no": "261090290230",
+          "college": "Manipal Institute of Technology",
+          "phone": "8448737395",
+          "email": "nevaanaggarwal.sns@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10975",
+          "name": "KARTIK JAIN",
+          "is_leader": true,
+          "reg_no": "261090290170",
+          "college": "Manipal Institute of Technology",
+          "phone": "9818046146",
+          "email": "kartik1.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "KARTIK JAIN",
+      "leaderMobile": "9818046146",
+      "leaderEmail": "kartik1.mitmpl2026@learner.manipal.edu",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10051": {
+      "id": "TECHTEAM10051",
+      "name": "Team 10051",
+      "passcode": "TLD-UU2UV5",
+      "college": "International Centre for Applied Sciences",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11072",
+        "10418"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11072",
+          "name": "JEEVITH GANGADHAR",
+          "is_leader": false,
+          "reg_no": "241627090",
+          "college": "International Centre for Applied Sciences",
+          "phone": "9731409302",
+          "email": "g.jeevith090@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10418",
+          "name": "RAUNAK KHANDELWAL",
+          "is_leader": true,
+          "reg_no": "241627028",
+          "college": "International Centre for Applied Sciences",
+          "phone": "8770971010",
+          "email": "khandelwalraunak123456@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "RAUNAK KHANDELWAL",
+      "leaderMobile": "8770971010",
+      "leaderEmail": "khandelwalraunak123456@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10630": {
+      "id": "TECHTEAM10630",
+      "name": "Team 10630",
+      "passcode": "TLD-U4SH2R",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12487"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12487",
+          "name": "MALAPATI SRI KARAN",
+          "is_leader": true,
+          "reg_no": "251090051258",
+          "college": "Manipal Institute of Technology",
+          "phone": "7989799983",
+          "email": "srikaran2007@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "MALAPATI SRI KARAN",
+      "leaderMobile": "7989799983",
+      "leaderEmail": "srikaran2007@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10162": {
+      "id": "TECHTEAM10162",
+      "name": "Team 10162",
+      "passcode": "TLD-EL4C9C",
+      "college": "Visvesvaraya Technological University",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10062"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10062",
+          "name": "Adithya C K",
+          "is_leader": true,
+          "reg_no": "20291",
+          "college": "Visvesvaraya Technological University",
+          "phone": "6363936971",
+          "email": "adithyakannur80@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "NONMAHE",
+      "leaderName": "Adithya C K",
+      "leaderMobile": "6363936971",
+      "leaderEmail": "adithyakannur80@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11984": {
+      "id": "TECHTEAM11984",
+      "name": "Team 11984",
+      "passcode": "TLD-AUG8ZN",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13447",
+        "10329"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13447",
+          "name": "SHIVRAJ ACHARYA",
+          "is_leader": false,
+          "reg_no": "251090570148",
+          "college": "Manipal Institute of Technology",
+          "phone": "7337553647",
+          "email": "rajneeacharya@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10329",
+          "name": "SIDDHANTH P UDUPA",
+          "is_leader": true,
+          "reg_no": "251090570032",
+          "college": "Manipal Institute of Technology",
+          "phone": "9482640324",
+          "email": "udupasiddhanth@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SIDDHANTH P UDUPA",
+      "leaderMobile": "9482640324",
+      "leaderEmail": "udupasiddhanth@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10605": {
+      "id": "TECHTEAM10605",
+      "name": "Team 10605",
+      "passcode": "TLD-NBDGXL",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12683"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12683",
+          "name": "JAII MUKUNDH A",
+          "is_leader": true,
+          "reg_no": "240905524",
+          "college": "Manipal Institute of Technology",
+          "phone": "7975372378",
+          "email": "ajaiimukundh@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "JAII MUKUNDH A",
+      "leaderMobile": "7975372378",
+      "leaderEmail": "ajaiimukundh@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11946": {
+      "id": "TECHTEAM11946",
+      "name": "Team 11946",
+      "passcode": "TLD-B8S25D",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12239",
+        "10819"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12239",
+          "name": "DEEPANVITA SINGH",
+          "is_leader": false,
+          "reg_no": "261090050514",
+          "college": "Manipal Institute of Technology",
+          "phone": "8052656361",
+          "email": "deepanvita16@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10819",
+          "name": "VANSH RAJ SETH",
+          "is_leader": true,
+          "reg_no": "261090052492",
+          "college": "Manipal Institute of Technology",
+          "phone": "9335260565",
+          "email": "vanshrajseth218@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "VANSH RAJ SETH",
+      "leaderMobile": "9335260565",
+      "leaderEmail": "vanshrajseth218@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11160": {
+      "id": "TECHTEAM11160",
+      "name": "Team 11160",
+      "passcode": "TLD-SGK6US",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10312"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10312",
+          "name": "AARAV GUPTA",
+          "is_leader": true,
+          "reg_no": "251090052556",
+          "college": "Manipal Institute of Technology",
+          "phone": "6352254466",
+          "email": "aarav0202@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "AARAV GUPTA",
+      "leaderMobile": "6352254466",
+      "leaderEmail": "aarav0202@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11075": {
+      "id": "TECHTEAM11075",
+      "name": "Team 11075",
+      "passcode": "TLD-P3HW82",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13216",
+        "13215"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13216",
+          "name": "ABHINAV KRISHNA",
+          "is_leader": false,
+          "reg_no": "230911496",
+          "college": "Manipal Institute of Technology",
+          "phone": "9372116288",
+          "email": "abhinavkrishnajee@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "13215",
+          "name": "DIVYANGI SINGH",
+          "is_leader": true,
+          "reg_no": "230953080",
+          "college": "Manipal Institute of Technology",
+          "phone": "9717797292",
+          "email": "divyangisingh2004@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "DIVYANGI SINGH",
+      "leaderMobile": "9717797292",
+      "leaderEmail": "divyangisingh2004@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10437": {
+      "id": "TECHTEAM10437",
+      "name": "Team 10437",
+      "passcode": "TLD-RU9R4Z",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12485"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12485",
+          "name": "UNNATI P PATIL",
+          "is_leader": true,
+          "reg_no": "240968240",
+          "college": "Manipal Institute of Technology",
+          "phone": "8147122451",
+          "email": "unnatipatil2016@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "UNNATI P PATIL",
+      "leaderMobile": "8147122451",
+      "leaderEmail": "unnatipatil2016@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11485": {
+      "id": "TECHTEAM11485",
+      "name": "Team 11485",
+      "passcode": "TLD-Y266BA",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12828"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12828",
+          "name": "DURGA PILLAI",
+          "is_leader": true,
+          "reg_no": "261090040009",
+          "college": "Manipal Institute of Technology",
+          "phone": "7736699475",
+          "email": "durga.pillai2008@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "DURGA PILLAI",
+      "leaderMobile": "7736699475",
+      "leaderEmail": "durga.pillai2008@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12292": {
+      "id": "TECHTEAM12292",
+      "name": "Team 12292",
+      "passcode": "TLD-5KDPK9",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10760"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10760",
+          "name": "AKSHAJ DHAWAN",
+          "is_leader": true,
+          "reg_no": "261090050870",
+          "college": "Manipal Institute of Technology",
+          "phone": "8360948496",
+          "email": "akshajdhawan10@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "AKSHAJ DHAWAN",
+      "leaderMobile": "8360948496",
+      "leaderEmail": "akshajdhawan10@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10975": {
+      "id": "TECHTEAM10975",
+      "name": "Team 10975",
+      "passcode": "TLD-H2S2DH",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10990"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10990",
+          "name": "RAHUL MENON",
+          "is_leader": true,
+          "reg_no": "261090051202",
+          "college": "Manipal Institute of Technology",
+          "phone": "9108017141",
+          "email": "rahul.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "RAHUL MENON",
+      "leaderMobile": "9108017141",
+      "leaderEmail": "rahul.mitmpl2026@learner.manipal.edu",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12059": {
+      "id": "TECHTEAM12059",
+      "name": "Team 12059",
+      "passcode": "TLD-7UZEWX",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13348"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13348",
+          "name": "RIDHI HARISH RAJ",
+          "is_leader": true,
+          "reg_no": "261090052216",
+          "college": "Manipal Institute of Technology",
+          "phone": "8861641001",
+          "email": "ridhiraj02@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "RIDHI HARISH RAJ",
+      "leaderMobile": "8861641001",
+      "leaderEmail": "ridhiraj02@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10609": {
+      "id": "TECHTEAM10609",
+      "name": "Team 10609",
+      "passcode": "TLD-28MYGJ",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10931",
+        "10938"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10931",
+          "name": "KRISHAN R",
+          "is_leader": false,
+          "reg_no": "251090050798",
+          "college": "Manipal Institute of Technology",
+          "phone": "8148267790",
+          "email": "krishan.rajesh2@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10938",
+          "name": "MUKESH KUMAR C",
+          "is_leader": true,
+          "reg_no": "251090050560",
+          "college": "Manipal Institute of Technology",
+          "phone": "9384674059",
+          "email": "mukeshkumarc0309@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "MUKESH KUMAR C",
+      "leaderMobile": "9384674059",
+      "leaderEmail": "mukeshkumarc0309@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10741": {
+      "id": "TECHTEAM10741",
+      "name": "Team 10741",
+      "passcode": "TLD-EZH9QU",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11896",
+        "10602"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11896",
+          "name": "SHAMITH KRISHNA U G",
+          "is_leader": false,
+          "reg_no": "240907226",
+          "college": "Manipal Institute of Technology",
+          "phone": "7624812036",
+          "email": "shamith.krishna@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10602",
+          "name": "PRADYUMNA SHARMA",
+          "is_leader": true,
+          "reg_no": "240957242",
+          "college": "Manipal Institute of Technology",
+          "phone": "8919525620",
+          "email": "pradyumnash12@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "PRADYUMNA SHARMA",
+      "leaderMobile": "8919525620",
+      "leaderEmail": "pradyumnash12@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10500": {
+      "id": "TECHTEAM10500",
+      "name": "Team 10500",
+      "passcode": "TLD-SKLXDF",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11880"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11880",
+          "name": "SARAH DIAS",
+          "is_leader": true,
+          "reg_no": "251090240110",
+          "college": "Manipal Institute of Technology",
+          "phone": "8591361682",
+          "email": "skdias.1576@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SARAH DIAS",
+      "leaderMobile": "8591361682",
+      "leaderEmail": "skdias.1576@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10335": {
+      "id": "TECHTEAM10335",
+      "name": "Team 10335",
+      "passcode": "TLD-BRLC5N",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12345",
+        "11555"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12345",
+          "name": "ABIR CHOPRA",
+          "is_leader": false,
+          "reg_no": "240905059",
+          "college": "Manipal Institute of Technology",
+          "phone": "9319120569",
+          "email": "abirchopra.barca@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11555",
+          "name": "DIVVYESH RAMESH",
+          "is_leader": true,
+          "reg_no": "240953268",
+          "college": "Manipal Institute of Technology",
+          "phone": "9811927351",
+          "email": "divvyesh.inbox@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "DIVVYESH RAMESH",
+      "leaderMobile": "9811927351",
+      "leaderEmail": "divvyesh.inbox@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11556": {
+      "id": "TECHTEAM11556",
+      "name": "Team 11556",
+      "passcode": "TLD-2KB87H",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10922",
+        "10942"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10922",
+          "name": "ALOKIT CHAITANYA PANDEY",
+          "is_leader": false,
+          "reg_no": "261090052702",
+          "college": "Manipal Institute of Technology",
+          "phone": "9752475930",
+          "email": "chaitanyaalokit@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10942",
+          "name": "HUNAR SHARMA",
+          "is_leader": true,
+          "reg_no": "261090052398",
+          "college": "Manipal Institute of Technology",
+          "phone": "9258006185",
+          "email": "hunar.sharma07@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "HUNAR SHARMA",
+      "leaderMobile": "9258006185",
+      "leaderEmail": "hunar.sharma07@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11299": {
+      "id": "TECHTEAM11299",
+      "name": "Team 11299",
+      "passcode": "TLD-BHN46U",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13247",
+        "12058"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13247",
+          "name": "HAKESH B",
+          "is_leader": false,
+          "reg_no": "261091120760",
+          "college": "Manipal Institute of Technology",
+          "phone": "8825735775",
+          "email": "hakesh.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12058",
+          "name": "PRAJEET J N",
+          "is_leader": true,
+          "reg_no": "261090090600",
+          "college": "Manipal Institute of Technology",
+          "phone": "9345808917",
+          "email": "prajeet.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "PRAJEET J N",
+      "leaderMobile": "9345808917",
+      "leaderEmail": "prajeet.mitmpl2026@learner.manipal.edu",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10657": {
+      "id": "TECHTEAM10657",
+      "name": "Team 10657",
+      "passcode": "TLD-FCKA4D",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10356"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10356",
+          "name": "PRANAV IVATURI",
+          "is_leader": true,
+          "reg_no": "251090590278",
+          "college": "Manipal Institute of Technology",
+          "phone": "7993970875",
+          "email": "pranav.ivaturi30@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "PRANAV IVATURI",
+      "leaderMobile": "7993970875",
+      "leaderEmail": "pranav.ivaturi30@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10172": {
+      "id": "TECHTEAM10172",
+      "name": "Team 10172",
+      "passcode": "TLD-KSWVJW",
+      "college": "National Institute of Technology Karnataka Surathkal",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11934"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11934",
+          "name": "Sujal M H",
+          "is_leader": true,
+          "reg_no": "263CS004",
+          "college": "National Institute of Technology Karnataka Surathkal",
+          "phone": "8867144895",
+          "email": "sujalmh9@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "NONMAHE",
+      "leaderName": "Sujal M H",
+      "leaderMobile": "8867144895",
+      "leaderEmail": "sujalmh9@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12207": {
+      "id": "TECHTEAM12207",
+      "name": "Team 12207",
+      "passcode": "TLD-EXRHBG",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11847",
+        "11754"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11847",
+          "name": "VAISHNAVA J PAI",
+          "is_leader": false,
+          "reg_no": "261090240166",
+          "college": "Manipal Institute of Technology",
+          "phone": "9901803336",
+          "email": "vaishnavpai2576@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11754",
+          "name": "RISHIT DHIRAJ MORYANI",
+          "is_leader": true,
+          "reg_no": "251090050540",
+          "college": "Manipal Institute of Technology",
+          "phone": "8668261283",
+          "email": "rishitmoryani7@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "RISHIT DHIRAJ MORYANI",
+      "leaderMobile": "8668261283",
+      "leaderEmail": "rishitmoryani7@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11496": {
+      "id": "TECHTEAM11496",
+      "name": "Team 11496",
+      "passcode": "TLD-LNDE4Z",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10879"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10879",
+          "name": "AARJAV JAIN",
+          "is_leader": true,
+          "reg_no": "261090051088",
+          "college": "Manipal Institute of Technology",
+          "phone": "9911529536",
+          "email": "aarjavjain789@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "AARJAV JAIN",
+      "leaderMobile": "9911529536",
+      "leaderEmail": "aarjavjain789@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11571": {
+      "id": "TECHTEAM11571",
+      "name": "Team 11571",
+      "passcode": "TLD-3KHWKH",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12206",
+        "11046"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12206",
+          "name": "VANSHIKA AGARWAL",
+          "is_leader": false,
+          "reg_no": "261090051054",
+          "college": "Manipal Institute of Technology",
+          "phone": "7007883558",
+          "email": "agarwalvanshika810@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11046",
+          "name": "VAMIKA BUDHIRAJA",
+          "is_leader": true,
+          "reg_no": "261090052364",
+          "college": "Manipal Institute of Technology",
+          "phone": "9212794077",
+          "email": "budhirajavamika@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "VAMIKA BUDHIRAJA",
+      "leaderMobile": "9212794077",
+      "leaderEmail": "budhirajavamika@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11092": {
+      "id": "TECHTEAM11092",
+      "name": "Team 11092",
+      "passcode": "TLD-FTWXG6",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11288"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11288",
+          "name": "HIMANSHU JHA",
+          "is_leader": true,
+          "reg_no": "261090051472",
+          "college": "Manipal Institute of Technology",
+          "phone": "8076175721",
+          "email": "himahj18@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "HIMANSHU JHA",
+      "leaderMobile": "8076175721",
+      "leaderEmail": "himahj18@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10627": {
+      "id": "TECHTEAM10627",
+      "name": "Team 10627",
+      "passcode": "TLD-9F3D58",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10927",
+        "12347"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10927",
+          "name": "MUKUND PRAVIN SONTAKKE",
+          "is_leader": false,
+          "reg_no": "261091120698",
+          "college": "Manipal Institute of Technology",
+          "phone": "9552559847",
+          "email": "mukundsontakke@icloud.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12347",
+          "name": "RAYHAN MUHAMMED SHAMSEER",
+          "is_leader": true,
+          "reg_no": "261091120568",
+          "college": "Manipal Institute of Technology",
+          "phone": "8111875557",
+          "email": "rms.cnn@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "RAYHAN MUHAMMED SHAMSEER",
+      "leaderMobile": "8111875557",
+      "leaderEmail": "rms.cnn@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10387": {
+      "id": "TECHTEAM10387",
+      "name": "Team 10387",
+      "passcode": "TLD-ZGWP3K",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12618",
+        "11212"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12618",
+          "name": "ADITYA S",
+          "is_leader": false,
+          "reg_no": "251090050254",
+          "college": "Manipal Institute of Technology",
+          "phone": "7899909260",
+          "email": "srinivasholeh@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11212",
+          "name": "VIDYA NAYAK",
+          "is_leader": true,
+          "reg_no": "251090050032",
+          "college": "Manipal Institute of Technology",
+          "phone": "9900793102",
+          "email": "divya2000.nayak@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "VIDYA NAYAK",
+      "leaderMobile": "9900793102",
+      "leaderEmail": "divya2000.nayak@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11272": {
+      "id": "TECHTEAM11272",
+      "name": "Team 11272",
+      "passcode": "TLD-JG28J7",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10718"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10718",
+          "name": "VIHAN SARAN LAL",
+          "is_leader": true,
+          "reg_no": "251090050146",
+          "college": "Manipal Institute of Technology",
+          "phone": "7007600677",
+          "email": "vihanslal@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "VIHAN SARAN LAL",
+      "leaderMobile": "7007600677",
+      "leaderEmail": "vihanslal@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12309": {
+      "id": "TECHTEAM12309",
+      "name": "Team 12309",
+      "passcode": "TLD-5PH56J",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12245",
+        "13703"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12245",
+          "name": "KARTHIK S",
+          "is_leader": false,
+          "reg_no": "251090050052",
+          "college": "Manipal Institute of Technology",
+          "phone": "9845466826",
+          "email": "eyakarthik47@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "13703",
+          "name": "ABHISHEK SHETTY",
+          "is_leader": true,
+          "reg_no": "251090050036",
+          "college": "Manipal Institute of Technology",
+          "phone": "8123780905",
+          "email": "shivabhinav2007@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ABHISHEK SHETTY",
+      "leaderMobile": "8123780905",
+      "leaderEmail": "shivabhinav2007@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10684": {
+      "id": "TECHTEAM10684",
+      "name": "Team 10684",
+      "passcode": "TLD-K5B7BC",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12526",
+        "12313"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12526",
+          "name": "MD LABIB HOSSAIN",
+          "is_leader": false,
+          "reg_no": "261090050454",
+          "college": "Manipal Institute of Technology",
+          "phone": "9433677840",
+          "email": "labibhossain017@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12313",
+          "name": "AYUSH UPADHYAY",
+          "is_leader": true,
+          "reg_no": "261091100014",
+          "college": "Manipal Institute of Technology",
+          "phone": "9004694340",
+          "email": "nobdaupadhyay@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "AYUSH UPADHYAY",
+      "leaderMobile": "9004694340",
+      "leaderEmail": "nobdaupadhyay@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10504": {
+      "id": "TECHTEAM10504",
+      "name": "Team 10504",
+      "passcode": "TLD-VUM25T",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11641"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11641",
+          "name": "ARYAN VIVEK",
+          "is_leader": true,
+          "reg_no": "230911172",
+          "college": "Manipal Institute of Technology",
+          "phone": "9969488017",
+          "email": "aryanvivek05@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ARYAN VIVEK",
+      "leaderMobile": "9969488017",
+      "leaderEmail": "aryanvivek05@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11894": {
+      "id": "TECHTEAM11894",
+      "name": "Team 11894",
+      "passcode": "TLD-C9SPLY",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13306"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13306",
+          "name": "SAKSHAM SRIVASTAVA",
+          "is_leader": true,
+          "reg_no": "251090051122",
+          "college": "Manipal Institute of Technology",
+          "phone": "7007726719",
+          "email": "77saksham77@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SAKSHAM SRIVASTAVA",
+      "leaderMobile": "7007726719",
+      "leaderEmail": "77saksham77@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11522": {
+      "id": "TECHTEAM11522",
+      "name": "Team 11522",
+      "passcode": "TLD-SRWA65",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11285"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11285",
+          "name": "KRISHANG JAIN",
+          "is_leader": true,
+          "reg_no": "240958280",
+          "college": "Manipal Institute of Technology",
+          "phone": "8076029088",
+          "email": "kreshangjain@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "KRISHANG JAIN",
+      "leaderMobile": "8076029088",
+      "leaderEmail": "kreshangjain@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11833": {
+      "id": "TECHTEAM11833",
+      "name": "Team 11833",
+      "passcode": "TLD-YJG4KC",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11447"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11447",
+          "name": "ADITYA SINGH WALDIA",
+          "is_leader": true,
+          "reg_no": "240953544",
+          "college": "Manipal Institute of Technology",
+          "phone": "8851204896",
+          "email": "asw3924@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ADITYA SINGH WALDIA",
+      "leaderMobile": "8851204896",
+      "leaderEmail": "asw3924@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12335": {
+      "id": "TECHTEAM12335",
+      "name": "Team 12335",
+      "passcode": "TLD-4NSFSH",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13086",
+        "12587"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13086",
+          "name": "YATHARTH RAI",
+          "is_leader": false,
+          "reg_no": "251090050932",
+          "college": "Manipal Institute of Technology",
+          "phone": "8808154106",
+          "email": "yathrthrai1001@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12587",
+          "name": "HARSHIT BHANDARI",
+          "is_leader": true,
+          "reg_no": "251090050960",
+          "college": "Manipal Institute of Technology",
+          "phone": "8299005689",
+          "email": "harshitbhandarimm@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "HARSHIT BHANDARI",
+      "leaderMobile": "8299005689",
+      "leaderEmail": "harshitbhandarimm@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12055": {
+      "id": "TECHTEAM12055",
+      "name": "Team 12055",
+      "passcode": "TLD-EURUZG",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12893"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12893",
+          "name": "ABHISAR ANAND",
+          "is_leader": true,
+          "reg_no": "261090090544",
+          "college": "Manipal Institute of Technology",
+          "phone": "7488002405",
+          "email": "abhisar2102@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ABHISAR ANAND",
+      "leaderMobile": "7488002405",
+      "leaderEmail": "abhisar2102@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11916": {
+      "id": "TECHTEAM11916",
+      "name": "Team 11916",
+      "passcode": "TLD-Q5AG9U",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10850",
+        "12148"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10850",
+          "name": "RAHUL RAJESH KALPATHI",
+          "is_leader": false,
+          "reg_no": "261090330122",
+          "college": "Manipal Institute of Technology",
+          "phone": "9008939921",
+          "email": "rahul.kalpathi@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12148",
+          "name": "SIDDHARTH R B",
+          "is_leader": true,
+          "reg_no": "251090290298",
+          "college": "Manipal Institute of Technology",
+          "phone": "9361614691",
+          "email": "goldraminecannonlamp@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SIDDHARTH R B",
+      "leaderMobile": "9361614691",
+      "leaderEmail": "goldraminecannonlamp@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11992": {
+      "id": "TECHTEAM11992",
+      "name": "Team 11992",
+      "passcode": "TLD-ZQFCBS",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11877",
+        "11349"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11877",
+          "name": "VIDYUTH AJITH SOMAN",
+          "is_leader": false,
+          "reg_no": "261090060208",
+          "college": "Manipal Institute of Technology",
+          "phone": "9886112351",
+          "email": "vidyuthajithsoman@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11349",
+          "name": "DHRUV SUNIL",
+          "is_leader": true,
+          "reg_no": "261090051006",
+          "college": "Manipal Institute of Technology",
+          "phone": "9535272612",
+          "email": "dhruvsunil2708@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "DHRUV SUNIL",
+      "leaderMobile": "9535272612",
+      "leaderEmail": "dhruvsunil2708@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11149": {
+      "id": "TECHTEAM11149",
+      "name": "Team 11149",
+      "passcode": "TLD-55XZ8D",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12322"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12322",
+          "name": "EKLAVYA SINGHAL",
+          "is_leader": true,
+          "reg_no": "261090060284",
+          "college": "Manipal Institute of Technology",
+          "phone": "8269842244",
+          "email": "eklavyasinghal65@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "EKLAVYA SINGHAL",
+      "leaderMobile": "8269842244",
+      "leaderEmail": "eklavyasinghal65@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12228": {
+      "id": "TECHTEAM12228",
+      "name": "Team 12228",
+      "passcode": "TLD-MGRG4H",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12930"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12930",
+          "name": "KRISHNA NOHWAL",
+          "is_leader": true,
+          "reg_no": "240905352",
+          "college": "Manipal Institute of Technology",
+          "phone": "7028897111",
+          "email": "nohwalkrishna7@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "KRISHNA NOHWAL",
+      "leaderMobile": "7028897111",
+      "leaderEmail": "nohwalkrishna7@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11292": {
+      "id": "TECHTEAM11292",
+      "name": "Team 11292",
+      "passcode": "TLD-KAD68R",
+      "college": "Mangalore Institute of Technology & Engineering",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10398"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10398",
+          "name": "Poorvi",
+          "is_leader": true,
+          "reg_no": "4MT25CS127",
+          "college": "Mangalore Institute of Technology & Engineering",
+          "phone": "9448989207",
+          "email": "poorvikamath26@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "NONMAHE",
+      "leaderName": "Poorvi",
+      "leaderMobile": "9448989207",
+      "leaderEmail": "poorvikamath26@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11258": {
+      "id": "TECHTEAM11258",
+      "name": "Team 11258",
+      "passcode": "TLD-6X2LNV",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10199",
+        "11231"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10199",
+          "name": "KRISHNA RASTOGI",
+          "is_leader": false,
+          "reg_no": "251090051130",
+          "college": "Manipal Institute of Technology",
+          "phone": "9140586065",
+          "email": "krishnarastogi21022006@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11231",
+          "name": "ADITYA SOMAYAJI",
+          "is_leader": true,
+          "reg_no": "251090051780",
+          "college": "Manipal Institute of Technology",
+          "phone": "9480445414",
+          "email": "mail2adityasomayaji@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ADITYA SOMAYAJI",
+      "leaderMobile": "9480445414",
+      "leaderEmail": "mail2adityasomayaji@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11692": {
+      "id": "TECHTEAM11692",
+      "name": "Team 11692",
+      "passcode": "TLD-D7D7J7",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10223"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10223",
+          "name": "PREM RAJA BUNET",
+          "is_leader": true,
+          "reg_no": "261090051632",
+          "college": "Manipal Institute of Technology",
+          "phone": "8591074939",
+          "email": "prembunet@yahoo.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "PREM RAJA BUNET",
+      "leaderMobile": "8591074939",
+      "leaderEmail": "prembunet@yahoo.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11408": {
+      "id": "TECHTEAM11408",
+      "name": "Team 11408",
+      "passcode": "TLD-M33PJC",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11597",
+        "12979"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11597",
+          "name": "DIKSHEN SUTARIA",
+          "is_leader": false,
+          "reg_no": "251090590300",
+          "college": "Manipal Institute of Technology",
+          "phone": "9873816677",
+          "email": "sutariadikshen7@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12979",
+          "name": "SARVAGYA SINGH SAMBYAL",
+          "is_leader": true,
+          "reg_no": "251090590290",
+          "college": "Manipal Institute of Technology",
+          "phone": "8688315694",
+          "email": "sarvagyasinghs2020@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SARVAGYA SINGH SAMBYAL",
+      "leaderMobile": "8688315694",
+      "leaderEmail": "sarvagyasinghs2020@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12105": {
+      "id": "TECHTEAM12105",
+      "name": "Team 12105",
+      "passcode": "TLD-H6EGNQ",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10998"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10998",
+          "name": "DISA AAHANA SACHIN",
+          "is_leader": true,
+          "reg_no": "261090240026",
+          "college": "Manipal Institute of Technology",
+          "phone": "9637093821",
+          "email": "aahanadisa@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "DISA AAHANA SACHIN",
+      "leaderMobile": "9637093821",
+      "leaderEmail": "aahanadisa@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12249": {
+      "id": "TECHTEAM12249",
+      "name": "Team 12249",
+      "passcode": "TLD-BMZ5NA",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11979"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11979",
+          "name": "KUSHAL S L",
+          "is_leader": true,
+          "reg_no": "261090330086",
+          "college": "Manipal Institute of Technology",
+          "phone": "9686941540",
+          "email": "bhalokkushal@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "KUSHAL S L",
+      "leaderMobile": "9686941540",
+      "leaderEmail": "bhalokkushal@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11383": {
+      "id": "TECHTEAM11383",
+      "name": "Team 11383",
+      "passcode": "TLD-A4KRCJ",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12428"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12428",
+          "name": "SRIBHAVANI GANESHKUMAR",
+          "is_leader": true,
+          "reg_no": "261090050328",
+          "college": "Manipal Institute of Technology",
+          "phone": "7219774417",
+          "email": "sribhavani.49m@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SRIBHAVANI GANESHKUMAR",
+      "leaderMobile": "7219774417",
+      "leaderEmail": "sribhavani.49m@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11375": {
+      "id": "TECHTEAM11375",
+      "name": "Team 11375",
+      "passcode": "TLD-58HWAU",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12643"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12643",
+          "name": "MANDLIPALLLI ABHIJITH SAI KUMAR REDDY",
+          "is_leader": true,
+          "reg_no": "251090050694",
+          "college": "Manipal Institute of Technology",
+          "phone": "9959852851",
+          "email": "13.abhijith.06@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "MANDLIPALLLI ABHIJITH SAI KUMAR REDDY",
+      "leaderMobile": "9959852851",
+      "leaderEmail": "13.abhijith.06@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11816": {
+      "id": "TECHTEAM11816",
+      "name": "Team 11816",
+      "passcode": "TLD-Z9QKY6",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11386"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11386",
+          "name": "ROHINI DNYANESHWAR WAGH",
+          "is_leader": true,
+          "reg_no": "251090570230",
+          "college": "Manipal Institute of Technology",
+          "phone": "9370832271",
+          "email": "rohiniwagh030@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ROHINI DNYANESHWAR WAGH",
+      "leaderMobile": "9370832271",
+      "leaderEmail": "rohiniwagh030@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10679": {
+      "id": "TECHTEAM10679",
+      "name": "Team 10679",
+      "passcode": "TLD-W9UTD3",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12619",
+        "11205"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12619",
+          "name": "ARAVIND SARAVANAN",
+          "is_leader": false,
+          "reg_no": "251090050834",
+          "college": "Manipal Institute of Technology",
+          "phone": "8892370949",
+          "email": "aravind.sarav7@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11205",
+          "name": "CHETAN VINOD KAMATH",
+          "is_leader": true,
+          "reg_no": "251090052284",
+          "college": "Manipal Institute of Technology",
+          "phone": "9972554912",
+          "email": "chetanvkamath@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "CHETAN VINOD KAMATH",
+      "leaderMobile": "9972554912",
+      "leaderEmail": "chetanvkamath@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11505": {
+      "id": "TECHTEAM11505",
+      "name": "Team 11505",
+      "passcode": "TLD-S9V56F",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10926"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10926",
+          "name": "IRA AGARWAL",
+          "is_leader": true,
+          "reg_no": "261090051888",
+          "college": "Manipal Institute of Technology",
+          "phone": "9999600640",
+          "email": "iraagarwal.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "IRA AGARWAL",
+      "leaderMobile": "9999600640",
+      "leaderEmail": "iraagarwal.mitmpl2026@learner.manipal.edu",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11044": {
+      "id": "TECHTEAM11044",
+      "name": "Team 11044",
+      "passcode": "TLD-MTJG4X",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11829",
+        "11827"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11829",
+          "name": "ISHITA AGGARWAL",
+          "is_leader": false,
+          "reg_no": "261090050017",
+          "college": "Manipal Institute of Technology",
+          "phone": "7028302150",
+          "email": "ishitaggarwal008@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11827",
+          "name": "Akshita Sundeep Singh",
+          "is_leader": true,
+          "reg_no": "261090050005",
+          "college": "Manipal Institute of Technology",
+          "phone": "7200430705",
+          "email": "akshitasundeepsingh@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "Akshita Sundeep Singh",
+      "leaderMobile": "7200430705",
+      "leaderEmail": "akshitasundeepsingh@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11931": {
+      "id": "TECHTEAM11931",
+      "name": "Team 11931",
+      "passcode": "TLD-WSRSH7",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11728",
+        "10221"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11728",
+          "name": "SARANG WARUDKAR",
+          "is_leader": false,
+          "reg_no": "251090070142",
+          "college": "Manipal Institute of Technology",
+          "phone": "9845695795",
+          "email": "sarang.mitmpl2025@learner.manipal.edu",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10221",
+          "name": "AYUSH OMPRAKASH SINGH",
+          "is_leader": true,
+          "reg_no": "251090610198",
+          "college": "Manipal Institute of Technology",
+          "phone": "9975552146",
+          "email": "ayushsinghm@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "AYUSH OMPRAKASH SINGH",
+      "leaderMobile": "9975552146",
+      "leaderEmail": "ayushsinghm@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10998": {
+      "id": "TECHTEAM10998",
+      "name": "Team 10998",
+      "passcode": "TLD-TSEKQ9",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11156",
+        "10941"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11156",
+          "name": "VIHAAN KHANNA",
+          "is_leader": false,
+          "reg_no": "261090330020",
+          "college": "Manipal Institute of Technology",
+          "phone": "9810730709",
+          "email": "vihaankhanna4@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10941",
+          "name": "SHAURYA PARASHAR",
+          "is_leader": true,
+          "reg_no": "261090060336",
+          "college": "Manipal Institute of Technology",
+          "phone": "9625972419",
+          "email": "shauryaaa30@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SHAURYA PARASHAR",
+      "leaderMobile": "9625972419",
+      "leaderEmail": "shauryaaa30@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10804": {
+      "id": "TECHTEAM10804",
+      "name": "Team 10804",
+      "passcode": "TLD-K4EMKN",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12059",
+        "11684"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12059",
+          "name": "AANYA SHRADDHA KUJUR",
+          "is_leader": false,
+          "reg_no": "261090051924",
+          "college": "Manipal Institute of Technology",
+          "phone": "8951102002",
+          "email": "aanyashraddhakujur@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11684",
+          "name": "RAJESHREE SHARMA",
+          "is_leader": true,
+          "reg_no": "261090051804",
+          "college": "Manipal Institute of Technology",
+          "phone": "9835546531",
+          "email": "sukanto6314@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "RAJESHREE SHARMA",
+      "leaderMobile": "9835546531",
+      "leaderEmail": "sukanto6314@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12214": {
+      "id": "TECHTEAM12214",
+      "name": "Team 12214",
+      "passcode": "TLD-PZBZUH",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11098"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11098",
+          "name": "NAMIT CHATURVEDI",
+          "is_leader": true,
+          "reg_no": "261090570006",
+          "college": "Manipal Institute of Technology",
+          "phone": "6290961151",
+          "email": "chaturvedi.namit22@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "NAMIT CHATURVEDI",
+      "leaderMobile": "6290961151",
+      "leaderEmail": "chaturvedi.namit22@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11297": {
+      "id": "TECHTEAM11297",
+      "name": "Team 11297",
+      "passcode": "TLD-5G7RCD",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11636",
+        "11004"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11636",
+          "name": "DHEER GHARIA",
+          "is_leader": false,
+          "reg_no": "261090030148",
+          "college": "Manipal Institute of Technology",
+          "phone": "8925093942",
+          "email": "dheer.gharia@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11004",
+          "name": "ARNAV SINGH CHAUHAN",
+          "is_leader": true,
+          "reg_no": "261090040146",
+          "college": "Manipal Institute of Technology",
+          "phone": "9372812197",
+          "email": "arnavsc08@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ARNAV SINGH CHAUHAN",
+      "leaderMobile": "9372812197",
+      "leaderEmail": "arnavsc08@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12094": {
+      "id": "TECHTEAM12094",
+      "name": "Team 12094",
+      "passcode": "TLD-845F2J",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11811"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11811",
+          "name": "TAMANNA MENON",
+          "is_leader": true,
+          "reg_no": "251090290102",
+          "college": "Manipal Institute of Technology",
+          "phone": "7907056070",
+          "email": "tamannamenon2007@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "TAMANNA MENON",
+      "leaderMobile": "7907056070",
+      "leaderEmail": "tamannamenon2007@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10575": {
+      "id": "TECHTEAM10575",
+      "name": "Team 10575",
+      "passcode": "TLD-AXYHAW",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12061",
+        "12068"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12061",
+          "name": "YUKTA RANJALKAR",
+          "is_leader": false,
+          "reg_no": "261090051482",
+          "college": "Manipal Institute of Technology",
+          "phone": "9820947289",
+          "email": "ranjalkaryp@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12068",
+          "name": "SHREYA BHATIA",
+          "is_leader": true,
+          "reg_no": "261090051494",
+          "college": "Manipal Institute of Technology",
+          "phone": "9873176770",
+          "email": "shreyabhatia7777@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SHREYA BHATIA",
+      "leaderMobile": "9873176770",
+      "leaderEmail": "shreyabhatia7777@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10328": {
+      "id": "TECHTEAM10328",
+      "name": "Team 10328",
+      "passcode": "TLD-QRPGXE",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12331"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12331",
+          "name": "GRANDHI GOWTHAM RAM SAI",
+          "is_leader": true,
+          "reg_no": "240905488",
+          "college": "Manipal Institute of Technology",
+          "phone": "8431863119",
+          "email": "gowtham06092006@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "GRANDHI GOWTHAM RAM SAI",
+      "leaderMobile": "8431863119",
+      "leaderEmail": "gowtham06092006@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10296": {
+      "id": "TECHTEAM10296",
+      "name": "Team 10296",
+      "passcode": "TLD-QZC268",
+      "college": "Shri Madhwa Vadiraja Institute of Technology & Management",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12156",
+        "11158"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12156",
+          "name": "Anarghya Borkar",
+          "is_leader": false,
+          "reg_no": "4MW25CS011",
+          "college": "Shri Madhwa Vadiraja Institute of Technology & Management",
+          "phone": "9113595180",
+          "email": "anarghyaborkar@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11158",
+          "name": "Dheeraj",
+          "is_leader": true,
+          "reg_no": "4MW25CS034",
+          "college": "Shri Madhwa Vadiraja Institute of Technology & Management",
+          "phone": "9353396740",
+          "email": "dheerajkini931@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "NONMAHE",
+      "leaderName": "Dheeraj",
+      "leaderMobile": "9353396740",
+      "leaderEmail": "dheerajkini931@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10221": {
+      "id": "TECHTEAM10221",
+      "name": "Team 10221",
+      "passcode": "TLD-6AA8ZM",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10823"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10823",
+          "name": "AADIL MANOJ WARRIER",
+          "is_leader": true,
+          "reg_no": "261090290160",
+          "college": "Manipal Institute of Technology",
+          "phone": "7760995806",
+          "email": "warrier.aadil@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "AADIL MANOJ WARRIER",
+      "leaderMobile": "7760995806",
+      "leaderEmail": "warrier.aadil@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12103": {
+      "id": "TECHTEAM12103",
+      "name": "Team 12103",
+      "passcode": "TLD-B9PGZN",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11532"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11532",
+          "name": "AARSH SHARMA",
+          "is_leader": true,
+          "reg_no": "251090052178",
+          "college": "Manipal Institute of Technology",
+          "phone": "9821024296",
+          "email": "aarshsharma60@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "AARSH SHARMA",
+      "leaderMobile": "9821024296",
+      "leaderEmail": "aarshsharma60@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10198": {
+      "id": "TECHTEAM10198",
+      "name": "Team 10198",
+      "passcode": "TLD-7GZYPH",
+      "college": "Rashtreeya Vidyalaya College of Engineering",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10652"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10652",
+          "name": "Sai P",
+          "is_leader": true,
+          "reg_no": "1RV25ET044",
+          "college": "Rashtreeya Vidyalaya College of Engineering",
+          "phone": "8618307913",
+          "email": "saipx517@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "NONMAHE",
+      "leaderName": "Sai P",
+      "leaderMobile": "8618307913",
+      "leaderEmail": "saipx517@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11029": {
+      "id": "TECHTEAM11029",
+      "name": "Team 11029",
+      "passcode": "TLD-MFUV9J",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10702",
+        "10700"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10702",
+          "name": "BHAGYA GUPTA",
+          "is_leader": false,
+          "reg_no": "261090580054",
+          "college": "Manipal Institute of Technology",
+          "phone": "6289260332",
+          "email": "guptabhagya12@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10700",
+          "name": "DHAIRYA SARAF",
+          "is_leader": true,
+          "reg_no": "261090050924",
+          "college": "Manipal Institute of Technology",
+          "phone": "9830851095",
+          "email": "dhairyasaraf14@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "DHAIRYA SARAF",
+      "leaderMobile": "9830851095",
+      "leaderEmail": "dhairyasaraf14@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10483": {
+      "id": "TECHTEAM10483",
+      "name": "Team 10483",
+      "passcode": "TLD-FQD5MW",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10921",
+        "10873"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10921",
+          "name": "K P ARYAN REDDY",
+          "is_leader": false,
+          "reg_no": "261090052252",
+          "college": "Manipal Institute of Technology",
+          "phone": "9482520226",
+          "email": "aryanaustralia2008@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10873",
+          "name": "ADVAIT NAYAK",
+          "is_leader": true,
+          "reg_no": "261090050576",
+          "college": "Manipal Institute of Technology",
+          "phone": "9820509931",
+          "email": "advaitnayak250208@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ADVAIT NAYAK",
+      "leaderMobile": "9820509931",
+      "leaderEmail": "advaitnayak250208@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12237": {
+      "id": "TECHTEAM12237",
+      "name": "Team 12237",
+      "passcode": "TLD-DKRAGP",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11351"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11351",
+          "name": "NEEL NISHANTH KULURKAR",
+          "is_leader": true,
+          "reg_no": "261090050324",
+          "college": "Manipal Institute of Technology",
+          "phone": "8788691102",
+          "email": "neel.kulurkar@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "NEEL NISHANTH KULURKAR",
+      "leaderMobile": "8788691102",
+      "leaderEmail": "neel.kulurkar@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10595": {
+      "id": "TECHTEAM10595",
+      "name": "Team 10595",
+      "passcode": "TLD-QLFGME",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11129",
+        "10630"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11129",
+          "name": "HARSHIT JOHRI",
+          "is_leader": false,
+          "reg_no": "261090050666",
+          "college": "Manipal Institute of Technology",
+          "phone": "9810511227",
+          "email": "harshitjohri.hj@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10630",
+          "name": "KSHAMENDRA KUMAR MISHRA",
+          "is_leader": true,
+          "reg_no": "261090051010",
+          "college": "Manipal Institute of Technology",
+          "phone": "8010114917",
+          "email": "kshamendrakumarmishra@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "KSHAMENDRA KUMAR MISHRA",
+      "leaderMobile": "8010114917",
+      "leaderEmail": "kshamendrakumarmishra@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10735": {
+      "id": "TECHTEAM10735",
+      "name": "Team 10735",
+      "passcode": "TLD-PEDT2Q",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10930"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10930",
+          "name": "MAHAJAN SOHAM KAUSHAL",
+          "is_leader": true,
+          "reg_no": "251090051778",
+          "college": "Manipal Institute of Technology",
+          "phone": "7400148967",
+          "email": "sohamkm05@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "MAHAJAN SOHAM KAUSHAL",
+      "leaderMobile": "7400148967",
+      "leaderEmail": "sohamkm05@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10713": {
+      "id": "TECHTEAM10713",
+      "name": "Team 10713",
+      "passcode": "TLD-ZZY33J",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12553"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12553",
+          "name": "LAKSHMI HEBBALE RAM",
+          "is_leader": true,
+          "reg_no": "261090330188",
+          "college": "Manipal Institute of Technology",
+          "phone": "7892425005",
+          "email": "lakshmihr2007@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "LAKSHMI HEBBALE RAM",
+      "leaderMobile": "7892425005",
+      "leaderEmail": "lakshmihr2007@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10535": {
+      "id": "TECHTEAM10535",
+      "name": "Team 10535",
+      "passcode": "TLD-TF4RH4",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10826"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10826",
+          "name": "PRANAV R S",
+          "is_leader": true,
+          "reg_no": "261091120272",
+          "college": "Manipal Institute of Technology",
+          "phone": "7892117408",
+          "email": "pranavrs1208@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "PRANAV R S",
+      "leaderMobile": "7892117408",
+      "leaderEmail": "pranavrs1208@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12242": {
+      "id": "TECHTEAM12242",
+      "name": "Team 12242",
+      "passcode": "TLD-DD4P3Y",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10846"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10846",
+          "name": "ARJUN A R",
+          "is_leader": true,
+          "reg_no": "261090050174",
+          "college": "Manipal Institute of Technology",
+          "phone": "8590873158",
+          "email": "arjunarofficial1@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ARJUN A R",
+      "leaderMobile": "8590873158",
+      "leaderEmail": "arjunarofficial1@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11564": {
+      "id": "TECHTEAM11564",
+      "name": "Team 11564",
+      "passcode": "TLD-NK4MEU",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13096",
+        "10962"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13096",
+          "name": "ANANYA PARAG SHAH",
+          "is_leader": false,
+          "reg_no": "261090052746",
+          "college": "Manipal Institute of Technology",
+          "phone": "9824097707",
+          "email": "ananya9.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10962",
+          "name": "MUKUND SONI",
+          "is_leader": true,
+          "reg_no": "261090051030",
+          "college": "Manipal Institute of Technology",
+          "phone": "9861164160",
+          "email": "mukuu968@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "MUKUND SONI",
+      "leaderMobile": "9861164160",
+      "leaderEmail": "mukuu968@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12182": {
+      "id": "TECHTEAM12182",
+      "name": "Team 12182",
+      "passcode": "TLD-CSG5FA",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12043"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12043",
+          "name": "SYED MOHAMMAD HAIDER",
+          "is_leader": true,
+          "reg_no": "251090051860",
+          "college": "Manipal Institute of Technology",
+          "phone": "7061039991",
+          "email": "syed.mohammad.haider05@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SYED MOHAMMAD HAIDER",
+      "leaderMobile": "7061039991",
+      "leaderEmail": "syed.mohammad.haider05@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11495": {
+      "id": "TECHTEAM11495",
+      "name": "Team 11495",
+      "passcode": "TLD-WDVDMA",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11032"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11032",
+          "name": "VED KAPIL KHAMBHOLJA",
+          "is_leader": true,
+          "reg_no": "261090290114",
+          "college": "Manipal Institute of Technology",
+          "phone": "7893977995",
+          "email": "vedkhambholja7@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "VED KAPIL KHAMBHOLJA",
+      "leaderMobile": "7893977995",
+      "leaderEmail": "vedkhambholja7@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10997": {
+      "id": "TECHTEAM10997",
+      "name": "Team 10997",
+      "passcode": "TLD-UH9FLQ",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12080",
+        "11109"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12080",
+          "name": "PRITISH MEHTA",
+          "is_leader": false,
+          "reg_no": "261090051486",
+          "college": "Manipal Institute of Technology",
+          "phone": "9873874200",
+          "email": "pritishmeht1010@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11109",
+          "name": "T RAKSHITH KUMAR",
+          "is_leader": true,
+          "reg_no": "261091120066",
+          "college": "Manipal Institute of Technology",
+          "phone": "7259030246",
+          "email": "rakshith07189@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "T RAKSHITH KUMAR",
+      "leaderMobile": "7259030246",
+      "leaderEmail": "rakshith07189@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10702": {
+      "id": "TECHTEAM10702",
+      "name": "Team 10702",
+      "passcode": "TLD-TVLPUQ",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10347",
+        "10296"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10347",
+          "name": "MANAMI CHATTERJEE",
+          "is_leader": false,
+          "reg_no": "251090030108",
+          "college": "Manipal Institute of Technology",
+          "phone": "7207833906",
+          "email": "manaspriya2203@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10296",
+          "name": "BARNAK ROY NANDY",
+          "is_leader": true,
+          "reg_no": "251090052126",
+          "college": "Manipal Institute of Technology",
+          "phone": "9832076912",
+          "email": "roynandisubrata@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "BARNAK ROY NANDY",
+      "leaderMobile": "9832076912",
+      "leaderEmail": "roynandisubrata@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10129": {
+      "id": "TECHTEAM10129",
+      "name": "Team 10129",
+      "passcode": "TLD-HP9UYY",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10560"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10560",
+          "name": "KRISHNENDU",
+          "is_leader": true,
+          "reg_no": "251090052822",
+          "college": "Manipal Institute of Technology",
+          "phone": "9718670888",
+          "email": "krishnendukavya3024@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "KRISHNENDU",
+      "leaderMobile": "9718670888",
+      "leaderEmail": "krishnendukavya3024@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11014": {
+      "id": "TECHTEAM11014",
+      "name": "Team 11014",
+      "passcode": "TLD-F8B8YZ",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10914",
+        "10916"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10914",
+          "name": "VARUN RAWAT",
+          "is_leader": false,
+          "reg_no": "261090051864",
+          "college": "Manipal Institute of Technology",
+          "phone": "9303860361",
+          "email": "varun2.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10916",
+          "name": "ATHARVA MILIND BORDAVEKAR",
+          "is_leader": true,
+          "reg_no": "261091120470",
+          "college": "Manipal Institute of Technology",
+          "phone": "9423303018",
+          "email": "atharvamb21@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ATHARVA MILIND BORDAVEKAR",
+      "leaderMobile": "9423303018",
+      "leaderEmail": "atharvamb21@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12044": {
+      "id": "TECHTEAM12044",
+      "name": "Team 12044",
+      "passcode": "TLD-35V87W",
+      "college": "Rashtreeya Vidyalaya College of Engineering",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12491"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12491",
+          "name": "Yash Saraogi",
+          "is_leader": true,
+          "reg_no": "1RV23CS297",
+          "college": "Rashtreeya Vidyalaya College of Engineering",
+          "phone": "9611247230",
+          "email": "yashsaraogi05@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "NONMAHE",
+      "leaderName": "Yash Saraogi",
+      "leaderMobile": "9611247230",
+      "leaderEmail": "yashsaraogi05@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12256": {
+      "id": "TECHTEAM12256",
+      "name": "Team 12256",
+      "passcode": "TLD-B5HWJ6",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11725"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11725",
+          "name": "RITHULRAJ Y",
+          "is_leader": true,
+          "reg_no": "251090590166",
+          "college": "Manipal Institute of Technology",
+          "phone": "9731748147",
+          "email": "yrithulraj@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "RITHULRAJ Y",
+      "leaderMobile": "9731748147",
+      "leaderEmail": "yrithulraj@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11962": {
+      "id": "TECHTEAM11962",
+      "name": "Team 11962",
+      "passcode": "TLD-ZC6FKX",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13271",
+        "13052"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13271",
+          "name": "FRAVAASH CHOUHAN",
+          "is_leader": false,
+          "reg_no": "251090590044",
+          "college": "Manipal Institute of Technology",
+          "phone": "9558310308",
+          "email": "guardianangel3138@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "13052",
+          "name": "SHLOK SACHIN",
+          "is_leader": true,
+          "reg_no": "251090330102",
+          "college": "Manipal Institute of Technology",
+          "phone": "9109338806",
+          "email": "shloksachin22@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SHLOK SACHIN",
+      "leaderMobile": "9109338806",
+      "leaderEmail": "shloksachin22@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11310": {
+      "id": "TECHTEAM11310",
+      "name": "Team 11310",
+      "passcode": "TLD-9HEUPN",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10523"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10523",
+          "name": "ARUL SINGH",
+          "is_leader": true,
+          "reg_no": "261091120494",
+          "college": "Manipal Institute of Technology",
+          "phone": "9310440233",
+          "email": "singharul009@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ARUL SINGH",
+      "leaderMobile": "9310440233",
+      "leaderEmail": "singharul009@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11529": {
+      "id": "TECHTEAM11529",
+      "name": "Team 11529",
+      "passcode": "TLD-N3JB5D",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13044"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13044",
+          "name": "ADHITHIYA SV",
+          "is_leader": true,
+          "reg_no": "261091120286",
+          "college": "Manipal Institute of Technology",
+          "phone": "7338787955",
+          "email": "mara.avs.contact@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ADHITHIYA SV",
+      "leaderMobile": "7338787955",
+      "leaderEmail": "mara.avs.contact@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12281": {
+      "id": "TECHTEAM12281",
+      "name": "Team 12281",
+      "passcode": "TLD-KEHRBZ",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11488"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11488",
+          "name": "G YUGAVARTH",
+          "is_leader": true,
+          "reg_no": "261091120654",
+          "college": "Manipal Institute of Technology",
+          "phone": "7305765867",
+          "email": "yugavarthreddy2008@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "G YUGAVARTH",
+      "leaderMobile": "7305765867",
+      "leaderEmail": "yugavarthreddy2008@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11663": {
+      "id": "TECHTEAM11663",
+      "name": "Team 11663",
+      "passcode": "TLD-6B4BUN",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11307"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11307",
+          "name": "KOVIDH RAJ",
+          "is_leader": true,
+          "reg_no": "261090050368",
+          "college": "Manipal Institute of Technology",
+          "phone": "9030440426",
+          "email": "kovidhraj.b@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "KOVIDH RAJ",
+      "leaderMobile": "9030440426",
+      "leaderEmail": "kovidhraj.b@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11873": {
+      "id": "TECHTEAM11873",
+      "name": "Team 11873",
+      "passcode": "TLD-TNKJVV",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11193",
+        "13143"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11193",
+          "name": "KARAN AMIT NAGDA",
+          "is_leader": false,
+          "reg_no": "261090050532",
+          "college": "Manipal Institute of Technology",
+          "phone": "7777072608",
+          "email": "karanagda08@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "13143",
+          "name": "SHREYAN JOSHI",
+          "is_leader": true,
+          "reg_no": "261090050588",
+          "college": "Manipal Institute of Technology",
+          "phone": "8793559942",
+          "email": "shreyan894@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SHREYAN JOSHI",
+      "leaderMobile": "8793559942",
+      "leaderEmail": "shreyan894@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10540": {
+      "id": "TECHTEAM10540",
+      "name": "Team 10540",
+      "passcode": "TLD-RH3V73",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12510",
+        "12517"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12510",
+          "name": "SIVALA HEMANTH",
+          "is_leader": false,
+          "reg_no": "261090051514",
+          "college": "Manipal Institute of Technology",
+          "phone": "7989592969",
+          "email": "hemanthsivala829@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12517",
+          "name": "AKELLA ADITYA SRI",
+          "is_leader": true,
+          "reg_no": "261090051312",
+          "college": "Manipal Institute of Technology",
+          "phone": "9701876580",
+          "email": "sriadityaakella@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "AKELLA ADITYA SRI",
+      "leaderMobile": "9701876580",
+      "leaderEmail": "sriadityaakella@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10999": {
+      "id": "TECHTEAM10999",
+      "name": "Team 10999",
+      "passcode": "TLD-SXS6RV",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10943",
+        "11910"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10943",
+          "name": "SURAJ NARAYAN SAHU",
+          "is_leader": false,
+          "reg_no": "261091120256",
+          "college": "Manipal Institute of Technology",
+          "phone": "9892500128",
+          "email": "suraj1.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11910",
+          "name": "RAHUL PRAKASH",
+          "is_leader": true,
+          "reg_no": "261090052710",
+          "college": "Manipal Institute of Technology",
+          "phone": "9312413061",
+          "email": "rahul.bvn123@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "RAHUL PRAKASH",
+      "leaderMobile": "9312413061",
+      "leaderEmail": "rahul.bvn123@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12073": {
+      "id": "TECHTEAM12073",
+      "name": "Team 12073",
+      "passcode": "TLD-GA78E6",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10644"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10644",
+          "name": "SARTHAK CHADDHA",
+          "is_leader": true,
+          "reg_no": "240953748",
+          "college": "Manipal Institute of Technology",
+          "phone": "6306453524",
+          "email": "sarthakchaddha1096@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SARTHAK CHADDHA",
+      "leaderMobile": "6306453524",
+      "leaderEmail": "sarthakchaddha1096@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11488": {
+      "id": "TECHTEAM11488",
+      "name": "Team 11488",
+      "passcode": "TLD-6RZ97M",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13116"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13116",
+          "name": "VANIA JAIN",
+          "is_leader": true,
+          "reg_no": "261090050572",
+          "college": "Manipal Institute of Technology",
+          "phone": "6289817562",
+          "email": "vaniajain2008@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "VANIA JAIN",
+      "leaderMobile": "6289817562",
+      "leaderEmail": "vaniajain2008@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11223": {
+      "id": "TECHTEAM11223",
+      "name": "Team 11223",
+      "passcode": "TLD-RVTGJA",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12165"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12165",
+          "name": "SRISH CHANDRA CHINTALAPATI",
+          "is_leader": true,
+          "reg_no": "261090090254",
+          "college": "Manipal Institute of Technology",
+          "phone": "9900974813",
+          "email": "srishcc@yahoo.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SRISH CHANDRA CHINTALAPATI",
+      "leaderMobile": "9900974813",
+      "leaderEmail": "srishcc@yahoo.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12294": {
+      "id": "TECHTEAM12294",
+      "name": "Team 12294",
+      "passcode": "TLD-GUDX5H",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13653",
+        "13295"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13653",
+          "name": "ARUSHI V",
+          "is_leader": false,
+          "reg_no": "251090570050",
+          "college": "Manipal Institute of Technology",
+          "phone": "9845758194",
+          "email": "arushi2906v@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "13295",
+          "name": "GAURAVI PRAKASH",
+          "is_leader": true,
+          "reg_no": "251090052554",
+          "college": "Manipal Institute of Technology",
+          "phone": "8879770890",
+          "email": "gauraviprakash15@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "GAURAVI PRAKASH",
+      "leaderMobile": "8879770890",
+      "leaderEmail": "gauraviprakash15@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12009": {
+      "id": "TECHTEAM12009",
+      "name": "Team 12009",
+      "passcode": "TLD-M6LXLY",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13669"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13669",
+          "name": "SARA SIMRAN",
+          "is_leader": true,
+          "reg_no": "251090052116",
+          "college": "Manipal Institute of Technology",
+          "phone": "7978339563",
+          "email": "sarasimran3185@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SARA SIMRAN",
+      "leaderMobile": "7978339563",
+      "leaderEmail": "sarasimran3185@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12319": {
+      "id": "TECHTEAM12319",
+      "name": "Team 12319",
+      "passcode": "TLD-YGGB9Z",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10355"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10355",
+          "name": "SAI AKSHAY KUMAR MAMIDI",
+          "is_leader": true,
+          "reg_no": "261090052874",
+          "college": "Manipal Institute of Technology",
+          "phone": "7893456600",
+          "email": "saiakshay69696@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SAI AKSHAY KUMAR MAMIDI",
+      "leaderMobile": "7893456600",
+      "leaderEmail": "saiakshay69696@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11602": {
+      "id": "TECHTEAM11602",
+      "name": "Team 11602",
+      "passcode": "TLD-FSKYLJ",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10328"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10328",
+          "name": "RITVIK PATHAK",
+          "is_leader": true,
+          "reg_no": "251090051094",
+          "college": "Manipal Institute of Technology",
+          "phone": "9650505374",
+          "email": "ritvikpathak010@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "RITVIK PATHAK",
+      "leaderMobile": "9650505374",
+      "leaderEmail": "ritvikpathak010@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11032": {
+      "id": "TECHTEAM11032",
+      "name": "Team 11032",
+      "passcode": "TLD-HQ8M4S",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10472"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10472",
+          "name": "JASH VISHANT LOTLIKAR",
+          "is_leader": true,
+          "reg_no": "261090051062",
+          "college": "Manipal Institute of Technology",
+          "phone": "9137788956",
+          "email": "jashlotlikar@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "JASH VISHANT LOTLIKAR",
+      "leaderMobile": "9137788956",
+      "leaderEmail": "jashlotlikar@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12102": {
+      "id": "TECHTEAM12102",
+      "name": "Team 12102",
+      "passcode": "TLD-6WSWGY",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12769"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12769",
+          "name": "KONDAPALLY NIKHIL ABHIRAM REDDY",
+          "is_leader": true,
+          "reg_no": "251090290272",
+          "college": "Manipal Institute of Technology",
+          "phone": "7207883274",
+          "email": "nikhilabhiram987@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "KONDAPALLY NIKHIL ABHIRAM REDDY",
+      "leaderMobile": "7207883274",
+      "leaderEmail": "nikhilabhiram987@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12004": {
+      "id": "TECHTEAM12004",
+      "name": "Team 12004",
+      "passcode": "TLD-WZWT6N",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13677",
+        "11294"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13677",
+          "name": "REYANSH SHARMA",
+          "is_leader": false,
+          "reg_no": "261090330074",
+          "college": "Manipal Institute of Technology",
+          "phone": "9899810559",
+          "email": "reyansh.29042008@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11294",
+          "name": "RAYED SAIF AHMED",
+          "is_leader": true,
+          "reg_no": "261090052402",
+          "college": "Manipal Institute of Technology",
+          "phone": "9667501904",
+          "email": "rayed.great@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "RAYED SAIF AHMED",
+      "leaderMobile": "9667501904",
+      "leaderEmail": "rayed.great@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11224": {
+      "id": "TECHTEAM11224",
+      "name": "Team 11224",
+      "passcode": "TLD-J74RAS",
+      "college": "Geethanjali college of engineering and technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12225",
+        "12012"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12225",
+          "name": "Gaddam Sri Bhandavya",
+          "is_leader": false,
+          "reg_no": "26R11A05M3",
+          "college": "Geethanjali college of engineering and technology",
+          "phone": "9989071663",
+          "email": "sribhandavyagaddam@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12012",
+          "name": "Madhadi Hasini Reddy",
+          "is_leader": true,
+          "reg_no": "26R11A05P1",
+          "college": "Geethanjali college of engineering and technology",
+          "phone": "7416626126",
+          "email": "reddyhasini820@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "NONMAHE",
+      "leaderName": "Madhadi Hasini Reddy",
+      "leaderMobile": "7416626126",
+      "leaderEmail": "reddyhasini820@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11872": {
+      "id": "TECHTEAM11872",
+      "name": "Team 11872",
+      "passcode": "TLD-8P5Z99",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10252",
+        "11797"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10252",
+          "name": "VASHISTA VIVEK DUBEY",
+          "is_leader": false,
+          "reg_no": "261090051914",
+          "college": "Manipal Institute of Technology",
+          "phone": "8919293530",
+          "email": "vashista.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11797",
+          "name": "MARELLA PRANEETH",
+          "is_leader": true,
+          "reg_no": "261090050582",
+          "college": "Manipal Institute of Technology",
+          "phone": "9963190003",
+          "email": "rapid.praneeth@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "MARELLA PRANEETH",
+      "leaderMobile": "9963190003",
+      "leaderEmail": "rapid.praneeth@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10574": {
+      "id": "TECHTEAM10574",
+      "name": "Team 10574",
+      "passcode": "TLD-VYU2XW",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12060",
+        "12184"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12060",
+          "name": "JAHANVI MAHESHKUMAR GUPTA",
+          "is_leader": false,
+          "reg_no": "261091120288",
+          "college": "Manipal Institute of Technology",
+          "phone": "8928396628",
+          "email": "jahanvimaheshgupta@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12184",
+          "name": "JHANVI MISHRA",
+          "is_leader": true,
+          "reg_no": "261090051496",
+          "college": "Manipal Institute of Technology",
+          "phone": "8400444302",
+          "email": "jhanvimishra13@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "JHANVI MISHRA",
+      "leaderMobile": "8400444302",
+      "leaderEmail": "jhanvimishra13@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12293": {
+      "id": "TECHTEAM12293",
+      "name": "Team 12293",
+      "passcode": "TLD-X62AWU",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13664",
+        "10768"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13664",
+          "name": "SUDAY D",
+          "is_leader": false,
+          "reg_no": "261090051118",
+          "college": "Manipal Institute of Technology",
+          "phone": "8660745496",
+          "email": "sudaydeepak8@gmail",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10768",
+          "name": "VED SHAH",
+          "is_leader": true,
+          "reg_no": "261090051198",
+          "college": "Manipal Institute of Technology",
+          "phone": "7905672948",
+          "email": "vedshah.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "VED SHAH",
+      "leaderMobile": "7905672948",
+      "leaderEmail": "vedshah.mitmpl2026@learner.manipal.edu",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11213": {
+      "id": "TECHTEAM11213",
+      "name": "Team 11213",
+      "passcode": "TLD-NC3RWB",
+      "college": "GEETANJALI COLLEGE OF ENGINEERING",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10270",
+        "11973"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10270",
+          "name": "P DINESH",
+          "is_leader": false,
+          "reg_no": "26R11A05P7",
+          "college": "GEETANJALI COLLEGE OF ENGINEERING",
+          "phone": "9390272099",
+          "email": "dineshpatalays@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11973",
+          "name": "Sathvika Nitturi",
+          "is_leader": true,
+          "reg_no": "26r11a05p6",
+          "college": "Geetanjali college of engineering and technology",
+          "phone": "9100781501",
+          "email": "sathvikanitturi@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "NONMAHE",
+      "leaderName": "Sathvika Nitturi",
+      "leaderMobile": "9100781501",
+      "leaderEmail": "sathvikanitturi@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10786": {
+      "id": "TECHTEAM10786",
+      "name": "Team 10786",
+      "passcode": "TLD-8FAG44",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10597",
+        "12805"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10597",
+          "name": "PAVAN GOWDA L K",
+          "is_leader": false,
+          "reg_no": "261090240042",
+          "college": "Manipal Institute of Technology",
+          "phone": "9500911038",
+          "email": "pavangowdalk08@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12805",
+          "name": "NIVEDITTA RAMESH IYER",
+          "is_leader": true,
+          "reg_no": "261090240017",
+          "college": "Manipal Institute of Technology",
+          "phone": "8089923429",
+          "email": "nivedittariyer@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "NIVEDITTA RAMESH IYER",
+      "leaderMobile": "8089923429",
+      "leaderEmail": "nivedittariyer@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11627": {
+      "id": "TECHTEAM11627",
+      "name": "Team 11627",
+      "passcode": "TLD-5LJ9N4",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11414"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11414",
+          "name": "VED NANDAN PRASAD",
+          "is_leader": true,
+          "reg_no": "261090050818",
+          "college": "Manipal Institute of Technology",
+          "phone": "9920235678",
+          "email": "vednandan033@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "VED NANDAN PRASAD",
+      "leaderMobile": "9920235678",
+      "leaderEmail": "vednandan033@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11819": {
+      "id": "TECHTEAM11819",
+      "name": "Team 11819",
+      "passcode": "TLD-ZQXY7X",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10130"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10130",
+          "name": "HARSHVARDHAN PAREKAR",
+          "is_leader": true,
+          "reg_no": "251090051818",
+          "college": "Manipal Institute of Technology",
+          "phone": "8341551740",
+          "email": "harshvardhanparekar@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "HARSHVARDHAN PAREKAR",
+      "leaderMobile": "8341551740",
+      "leaderEmail": "harshvardhanparekar@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11243": {
+      "id": "TECHTEAM11243",
+      "name": "Team 11243",
+      "passcode": "TLD-NWM95Z",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12121",
+        "10658"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12121",
+          "name": "KUSHAL SAMYAK",
+          "is_leader": false,
+          "reg_no": "261090090594",
+          "college": "Manipal Institute of Technology",
+          "phone": "9380825631",
+          "email": "kushal3.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10658",
+          "name": "MEET JAIN",
+          "is_leader": true,
+          "reg_no": "261091120766",
+          "college": "Manipal Institute of Technology",
+          "phone": "9494774323",
+          "email": "meetj9565@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "MEET JAIN",
+      "leaderMobile": "9494774323",
+      "leaderEmail": "meetj9565@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11641": {
+      "id": "TECHTEAM11641",
+      "name": "Team 11641",
+      "passcode": "TLD-JBFBSM",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13219",
+        "11620"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13219",
+          "name": "VENKATA NEERAV KAPUGANTI",
+          "is_leader": false,
+          "reg_no": "261090290010",
+          "college": "Manipal Institute of Technology",
+          "phone": "7021904793",
+          "email": "neeravk2008@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11620",
+          "name": "KAVEESH SWAMINATHAN IYER",
+          "is_leader": true,
+          "reg_no": "261090050636",
+          "college": "Manipal Institute of Technology",
+          "phone": "9967870133",
+          "email": "kaveesh.iyer7@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "KAVEESH SWAMINATHAN IYER",
+      "leaderMobile": "9967870133",
+      "leaderEmail": "kaveesh.iyer7@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10810": {
+      "id": "TECHTEAM10810",
+      "name": "Team 10810",
+      "passcode": "TLD-FW48JD",
+      "college": "Vivekananda College of Engineering & Technology Puttur",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11235"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11235",
+          "name": "Sakshi S Padiyar",
+          "is_leader": true,
+          "reg_no": "4VP24AI036",
+          "college": "Vivekananda College of Engineering & Technology Puttur",
+          "phone": "9740301564",
+          "email": "sakshipadiyar06@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "NONMAHE",
+      "leaderName": "Sakshi S Padiyar",
+      "leaderMobile": "9740301564",
+      "leaderEmail": "sakshipadiyar06@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11058": {
+      "id": "TECHTEAM11058",
+      "name": "Team 11058",
+      "passcode": "TLD-R5GJL2",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11525",
+        "11261"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11525",
+          "name": "JAYAM MANGALAM MODI",
+          "is_leader": false,
+          "reg_no": "261090090032",
+          "college": "Manipal Institute of Technology",
+          "phone": "6379453804",
+          "email": "jayam.modi.2008@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11261",
+          "name": "MRIDUL MOTWANI",
+          "is_leader": true,
+          "reg_no": "261090290062",
+          "college": "Manipal Institute of Technology",
+          "phone": "9372998977",
+          "email": "mridul.motwani@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "MRIDUL MOTWANI",
+      "leaderMobile": "9372998977",
+      "leaderEmail": "mridul.motwani@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10052": {
+      "id": "TECHTEAM10052",
+      "name": "Team 10052",
+      "passcode": "TLD-D6MXTG",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11110"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11110",
+          "name": "KRISHIV ARORA",
+          "is_leader": true,
+          "reg_no": "261090052730",
+          "college": "Manipal Institute of Technology",
+          "phone": "7827788926",
+          "email": "krishivismyname@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "KRISHIV ARORA",
+      "leaderMobile": "7827788926",
+      "leaderEmail": "krishivismyname@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10034": {
+      "id": "TECHTEAM10034",
+      "name": "Team 10034",
+      "passcode": "TLD-GXV25T",
+      "college": "NMAM Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10808",
+        "10385"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10808",
+          "name": "Kevin Marshal D Souza",
+          "is_leader": false,
+          "reg_no": "NNM23CC024",
+          "college": "NMAM Institute of Technology",
+          "phone": "9632489439",
+          "email": "kevinmarshal04@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10385",
+          "name": "Mubashar Hanif Kattangeri",
+          "is_leader": true,
+          "reg_no": "NNM23CB029",
+          "college": "NMAM Institute of Technology",
+          "phone": "7676278776",
+          "email": "mubashar68228@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "NONMAHE",
+      "leaderName": "Mubashar Hanif Kattangeri",
+      "leaderMobile": "7676278776",
+      "leaderEmail": "mubashar68228@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10834": {
+      "id": "TECHTEAM10834",
+      "name": "Team 10834",
+      "passcode": "TLD-XE7FRN",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10991"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10991",
+          "name": "VIGNESH VALLABH",
+          "is_leader": true,
+          "reg_no": "261090052498",
+          "college": "Manipal Institute of Technology",
+          "phone": "9845680835",
+          "email": "vignesh2.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "VIGNESH VALLABH",
+      "leaderMobile": "9845680835",
+      "leaderEmail": "vignesh2.mitmpl2026@learner.manipal.edu",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11985": {
+      "id": "TECHTEAM11985",
+      "name": "Team 11985",
+      "passcode": "TLD-2FUW2Z",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12310",
+        "11989"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12310",
+          "name": "SPANDAN SHETTY",
+          "is_leader": false,
+          "reg_no": "251090050998",
+          "college": "Manipal Institute of Technology",
+          "phone": "7019874872",
+          "email": "spandanpraveen2007@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11989",
+          "name": "ADARSH S P",
+          "is_leader": true,
+          "reg_no": "251090050196",
+          "college": "Manipal Institute of Technology",
+          "phone": "9964278136",
+          "email": "harchanasmit@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ADARSH S P",
+      "leaderMobile": "9964278136",
+      "leaderEmail": "harchanasmit@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12307": {
+      "id": "TECHTEAM12307",
+      "name": "Team 12307",
+      "passcode": "TLD-89P9PL",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10705"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10705",
+          "name": "OM ASHOK NIMJE",
+          "is_leader": true,
+          "reg_no": "261090052106",
+          "college": "Manipal Institute of Technology",
+          "phone": "8007331346",
+          "email": "omashoknimje.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "OM ASHOK NIMJE",
+      "leaderMobile": "8007331346",
+      "leaderEmail": "omashoknimje.mitmpl2026@learner.manipal.edu",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11437": {
+      "id": "TECHTEAM11437",
+      "name": "Team 11437",
+      "passcode": "TLD-FQXMM3",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10628"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10628",
+          "name": "SURAJ CHOUDHURY",
+          "is_leader": true,
+          "reg_no": "261091120674",
+          "college": "Manipal Institute of Technology",
+          "phone": "9101534765",
+          "email": "suraj29choudhury@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SURAJ CHOUDHURY",
+      "leaderMobile": "9101534765",
+      "leaderEmail": "suraj29choudhury@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11154": {
+      "id": "TECHTEAM11154",
+      "name": "Team 11154",
+      "passcode": "TLD-CQ4FNX",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13193",
+        "13169"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13193",
+          "name": "NIHARIKA PRASAD",
+          "is_leader": false,
+          "reg_no": "251090050398",
+          "college": "Manipal Institute of Technology",
+          "phone": "9867234382",
+          "email": "ramesh_jsr2006@yahoo.co.in",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "13169",
+          "name": "SAMIRAN DAS",
+          "is_leader": true,
+          "reg_no": "251090050542",
+          "college": "Manipal Institute of Technology",
+          "phone": "7674036563",
+          "email": "subhodashyd@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SAMIRAN DAS",
+      "leaderMobile": "7674036563",
+      "leaderEmail": "subhodashyd@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11151": {
+      "id": "TECHTEAM11151",
+      "name": "Team 11151",
+      "passcode": "TLD-PLG5QX",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11971"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11971",
+          "name": "RAGHAVENDRA RISHI RAU",
+          "is_leader": true,
+          "reg_no": "230905518",
+          "college": "Manipal Institute of Technology",
+          "phone": "9741852119",
+          "email": "racecarrau@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "RAGHAVENDRA RISHI RAU",
+      "leaderMobile": "9741852119",
+      "leaderEmail": "racecarrau@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10122": {
+      "id": "TECHTEAM10122",
+      "name": "Team 10122",
+      "passcode": "TLD-X6BK26",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12915",
+        "11287"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12915",
+          "name": "VANNEMPALLI DEVI CHARAN",
+          "is_leader": false,
+          "reg_no": "251090050314",
+          "college": "Manipal Institute of Technology",
+          "phone": "9398346102",
+          "email": "cherry10thdc@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11287",
+          "name": "ASHWIN ANILKUMAR MENON",
+          "is_leader": true,
+          "reg_no": "251090050376",
+          "college": "Manipal Institute of Technology",
+          "phone": "7907727291",
+          "email": "ashwincollegeapps@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ASHWIN ANILKUMAR MENON",
+      "leaderMobile": "7907727291",
+      "leaderEmail": "ashwincollegeapps@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12219": {
+      "id": "TECHTEAM12219",
+      "name": "Team 12219",
+      "passcode": "TLD-5AJZ6C",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11907",
+        "11893"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11907",
+          "name": "DIVYANSHU SRIVASTAVA",
+          "is_leader": false,
+          "reg_no": "251090052586",
+          "college": "Manipal Institute of Technology",
+          "phone": "9369213695",
+          "email": "divyanshusrivastava8766@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11893",
+          "name": "KEERAT SINGH CHAWLA",
+          "is_leader": true,
+          "reg_no": "251090051644",
+          "college": "Manipal Institute of Technology",
+          "phone": "8792853767",
+          "email": "keeratsingh2212007@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "KEERAT SINGH CHAWLA",
+      "leaderMobile": "8792853767",
+      "leaderEmail": "keeratsingh2212007@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10705": {
+      "id": "TECHTEAM10705",
+      "name": "Team 10705",
+      "passcode": "TLD-X2RT9N",
+      "college": "Rashtreeya Vidyalaya College of Engineering",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11996",
+        "10636"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11996",
+          "name": "Eshaan Ethaneil Ebenezer",
+          "is_leader": false,
+          "reg_no": "26RVIGCP39",
+          "college": "Rashtreeya Vidyalaya College of Engineering",
+          "phone": "8197874501",
+          "email": "eshaanebby@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10636",
+          "name": "Jhasmita C",
+          "is_leader": true,
+          "reg_no": "26RVIGCP31",
+          "college": "Rashtreeya Vidyalaya College of Engineering",
+          "phone": "8970222600",
+          "email": "cjhasmita@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "NONMAHE",
+      "leaderName": "Jhasmita C",
+      "leaderMobile": "8970222600",
+      "leaderEmail": "cjhasmita@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11774": {
+      "id": "TECHTEAM11774",
+      "name": "Team 11774",
+      "passcode": "TLD-RG7RJQ",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10642"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10642",
+          "name": "VEDIKA SINGH",
+          "is_leader": true,
+          "reg_no": "240953596",
+          "college": "Manipal Institute of Technology",
+          "phone": "7701961210",
+          "email": "vedikasingh0611@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "VEDIKA SINGH",
+      "leaderMobile": "7701961210",
+      "leaderEmail": "vedikasingh0611@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11759": {
+      "id": "TECHTEAM11759",
+      "name": "Team 11759",
+      "passcode": "TLD-PUS2CY",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13228"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13228",
+          "name": "APOORV BHARDWAJ",
+          "is_leader": true,
+          "reg_no": "251090052636",
+          "college": "Manipal Institute of Technology",
+          "phone": "9905213205",
+          "email": "notapoorvbhardwaj@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "APOORV BHARDWAJ",
+      "leaderMobile": "9905213205",
+      "leaderEmail": "notapoorvbhardwaj@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12066": {
+      "id": "TECHTEAM12066",
+      "name": "Team 12066",
+      "passcode": "TLD-HGSHZJ",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13083"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13083",
+          "name": "KINTANVEER REDDY SRIYAPUREDDY",
+          "is_leader": true,
+          "reg_no": "261090050808",
+          "college": "Manipal Institute of Technology",
+          "phone": "9298051075",
+          "email": "s.kintanveer@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "KINTANVEER REDDY SRIYAPUREDDY",
+      "leaderMobile": "9298051075",
+      "leaderEmail": "s.kintanveer@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10539": {
+      "id": "TECHTEAM10539",
+      "name": "Team 10539",
+      "passcode": "TLD-72BYD4",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11951",
+        "11394"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11951",
+          "name": "DIVVELA RISHI",
+          "is_leader": false,
+          "reg_no": "261090050928",
+          "college": "Manipal Institute of Technology",
+          "phone": "9885160506",
+          "email": "rishidivvela@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11394",
+          "name": "RITHIEK VAISHNEV MANDADAPU",
+          "is_leader": true,
+          "reg_no": "261090570086",
+          "college": "Manipal Institute of Technology",
+          "phone": "9014659701",
+          "email": "rithiek.vaishnev@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "RITHIEK VAISHNEV MANDADAPU",
+      "leaderMobile": "9014659701",
+      "leaderEmail": "rithiek.vaishnev@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11246": {
+      "id": "TECHTEAM11246",
+      "name": "Team 11246",
+      "passcode": "TLD-9NE62C",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11140"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11140",
+          "name": "PRIYAM PAREKH",
+          "is_leader": true,
+          "reg_no": "261090570092",
+          "college": "Manipal Institute of Technology",
+          "phone": "9123675235",
+          "email": "priyamparekh9@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "PRIYAM PAREKH",
+      "leaderMobile": "9123675235",
+      "leaderEmail": "priyamparekh9@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10639": {
+      "id": "TECHTEAM10639",
+      "name": "Team 10639",
+      "passcode": "TLD-ELU2MK",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11226",
+        "12555"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11226",
+          "name": "AVANISH UMESH",
+          "is_leader": false,
+          "reg_no": "251090050440",
+          "college": "Manipal Institute of Technology",
+          "phone": "9632059271",
+          "email": "avanishumesh@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12555",
+          "name": "AARUSHI R JINGADE",
+          "is_leader": true,
+          "reg_no": "251090050794",
+          "college": "Manipal Institute of Technology",
+          "phone": "9448309538",
+          "email": "aarushi.r.jingade@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "AARUSHI R JINGADE",
+      "leaderMobile": "9448309538",
+      "leaderEmail": "aarushi.r.jingade@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10030": {
+      "id": "TECHTEAM10030",
+      "name": "Team 10030",
+      "passcode": "TLD-PJZAQ8",
+      "college": "Rashtreeya Vidyalaya College of Engineering",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [
+        "yellow-01",
+        "blue-zone-ctf-01",
+        "blue-zone-ctf-02",
+        "blue-zone-ctf-03",
+        "blue-zone-ctf-04"
+      ],
+      "events": [],
+      "members": [
+        "10645"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10645",
+          "name": "Darshil",
+          "is_leader": true,
+          "reg_no": "1RZ25CS052",
+          "college": "Rashtreeya Vidyalaya College of Engineering",
+          "phone": "9136983700",
+          "email": "drshiltrivedi@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "NONMAHE",
+      "leaderName": "Darshil",
+      "leaderMobile": "9136983700",
+      "leaderEmail": "drshiltrivedi@gmail.com",
+      "completedZones": [
+        "sanctuary",
+        "yellow",
+        "blue"
+      ],
+      "score": 700,
+      "sanctuaryCompleted": true
+    },
+    "TECHTEAM10611": {
+      "id": "TECHTEAM10611",
+      "name": "Team 10611",
+      "passcode": "TLD-UXP9FS",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12018",
+        "10769"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12018",
+          "name": "CHAITANYA KUMAR SINGH",
+          "is_leader": false,
+          "reg_no": "251090052216",
+          "college": "Manipal Institute of Technology",
+          "phone": "9902966446",
+          "email": "rakeskumarsingh@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10769",
+          "name": "RITHU RAJA",
+          "is_leader": true,
+          "reg_no": "251090050333",
+          "college": "Manipal Institute of Technology",
+          "phone": "9043039950",
+          "email": "rithu2.mitmpl2025@learner.manipal.edu",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "RITHU RAJA",
+      "leaderMobile": "9043039950",
+      "leaderEmail": "rithu2.mitmpl2025@learner.manipal.edu",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11452": {
+      "id": "TECHTEAM11452",
+      "name": "Team 11452",
+      "passcode": "TLD-JL999M",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10357",
+        "10612"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10357",
+          "name": "UDAY DURGA",
+          "is_leader": false,
+          "reg_no": "261091120644",
+          "college": "Manipal Institute of Technology",
+          "phone": "8534013489",
+          "email": "uday.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10612",
+          "name": "MADHAV AGARWAL",
+          "is_leader": true,
+          "reg_no": "261090290152",
+          "college": "Manipal Institute of Technology",
+          "phone": "6397165586",
+          "email": "madhav2.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "MADHAV AGARWAL",
+      "leaderMobile": "6397165586",
+      "leaderEmail": "madhav2.mitmpl2026@learner.manipal.edu",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM12061": {
+      "id": "TECHTEAM12061",
+      "name": "Team 12061",
+      "passcode": "TLD-MTSGEU",
+      "college": "Manipal Institute of Technology, Bengaluru MAHE Bengaluru Campus, Karnataka,India",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "13525"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "13525",
+          "name": "HARSHVARDHAN GAGGAR",
+          "is_leader": true,
+          "reg_no": "245891390",
+          "college": "Manipal Institute of Technology, Bengaluru MAHE Bengaluru Campus, Karnataka,India",
+          "phone": "9834102268",
+          "email": "gaggarharsh31@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "HARSHVARDHAN GAGGAR",
+      "leaderMobile": "9834102268",
+      "leaderEmail": "gaggarharsh31@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11584": {
+      "id": "TECHTEAM11584",
+      "name": "Team 11584",
+      "passcode": "TLD-7DQR3F",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12190"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12190",
+          "name": "WAQAR GITE",
+          "is_leader": true,
+          "reg_no": "261091120746",
+          "college": "Manipal Institute of Technology",
+          "phone": "8976386905",
+          "email": "waqargite@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "WAQAR GITE",
+      "leaderMobile": "8976386905",
+      "leaderEmail": "waqargite@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10968": {
+      "id": "TECHTEAM10968",
+      "name": "Team 10968",
+      "passcode": "TLD-N6EK8N",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11019"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11019",
+          "name": "ADITYA NARAYAN K R",
+          "is_leader": true,
+          "reg_no": "261090050424",
+          "college": "Manipal Institute of Technology",
+          "phone": "8838701424",
+          "email": "narayankraditya@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ADITYA NARAYAN K R",
+      "leaderMobile": "8838701424",
+      "leaderEmail": "narayankraditya@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10855": {
+      "id": "TECHTEAM10855",
+      "name": "Team 10855",
+      "passcode": "TLD-4AJK2Z",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11236",
+        "11717"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11236",
+          "name": "ASMITA CHAKI",
+          "is_leader": false,
+          "reg_no": "261090050518",
+          "college": "Manipal Institute of Technology",
+          "phone": "9007735808",
+          "email": "asmitachaki02@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11717",
+          "name": "SANSTHITA DHAR",
+          "is_leader": true,
+          "reg_no": "261090050806",
+          "college": "Manipal Institute of Technology",
+          "phone": "8585078288",
+          "email": "sansthitadhar2008@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SANSTHITA DHAR",
+      "leaderMobile": "8585078288",
+      "leaderEmail": "sansthitadhar2008@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10469": {
+      "id": "TECHTEAM10469",
+      "name": "Team 10469",
+      "passcode": "TLD-E7FH99",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10928",
+        "10877"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10928",
+          "name": "KAUSTUBH GUPTA",
+          "is_leader": false,
+          "reg_no": "261090051256",
+          "college": "Manipal Institute of Technology",
+          "phone": "8830639960",
+          "email": "kaustubh1.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10877",
+          "name": "AARUSH DIXIT",
+          "is_leader": true,
+          "reg_no": "261090051260",
+          "college": "Manipal Institute of Technology",
+          "phone": "9147054925",
+          "email": "aarush7.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "AARUSH DIXIT",
+      "leaderMobile": "9147054925",
+      "leaderEmail": "aarush7.mitmpl2026@learner.manipal.edu",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11257": {
+      "id": "TECHTEAM11257",
+      "name": "Team 11257",
+      "passcode": "TLD-37KTEU",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12478",
+        "10507"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12478",
+          "name": "KSHITHI KRISHNA YESU",
+          "is_leader": false,
+          "reg_no": "261090050560",
+          "college": "Manipal Institute of Technology",
+          "phone": "9513357545",
+          "email": "kshithi.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10507",
+          "name": "OJASVA MOHTA",
+          "is_leader": true,
+          "reg_no": "261090580016",
+          "college": "Manipal Institute of Technology",
+          "phone": "9663736766",
+          "email": "ojasva.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "OJASVA MOHTA",
+      "leaderMobile": "9663736766",
+      "leaderEmail": "ojasva.mitmpl2026@learner.manipal.edu",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10571": {
+      "id": "TECHTEAM10571",
+      "name": "Team 10571",
+      "passcode": "TLD-UHW7T9",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11257",
+        "11300"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11257",
+          "name": "KHYATHI MALEPATI",
+          "is_leader": false,
+          "reg_no": "261091080022",
+          "college": "Manipal Institute of Technology",
+          "phone": "8341011176",
+          "email": "khyathi.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "11300",
+          "name": "NETRA JANARDHAN",
+          "is_leader": true,
+          "reg_no": "261090030044",
+          "college": "Manipal Institute of Technology",
+          "phone": "6379352821",
+          "email": "netra.janardhan@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "NETRA JANARDHAN",
+      "leaderMobile": "6379352821",
+      "leaderEmail": "netra.janardhan@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11387": {
+      "id": "TECHTEAM11387",
+      "name": "Team 11387",
+      "passcode": "TLD-V7ESC6",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10945"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10945",
+          "name": "SHRUTI BHADANI",
+          "is_leader": true,
+          "reg_no": "261090050768",
+          "college": "Manipal Institute of Technology",
+          "phone": "7004637057",
+          "email": "bhadanishruti2008@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "SHRUTI BHADANI",
+      "leaderMobile": "7004637057",
+      "leaderEmail": "bhadanishruti2008@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10996": {
+      "id": "TECHTEAM10996",
+      "name": "Team 10996",
+      "passcode": "TLD-X9EKTU",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10958",
+        "12708"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10958",
+          "name": "NAMAN TAYAL",
+          "is_leader": false,
+          "reg_no": "261090570098",
+          "college": "Manipal Institute of Technology",
+          "phone": "8800433511",
+          "email": "naman.tayal.08@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12708",
+          "name": "YATHARTH WADHERA",
+          "is_leader": true,
+          "reg_no": "261090050203",
+          "college": "Manipal Institute of Technology",
+          "phone": "9958188220",
+          "email": "yati.wadhera@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "YATHARTH WADHERA",
+      "leaderMobile": "9958188220",
+      "leaderEmail": "yati.wadhera@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11218": {
+      "id": "TECHTEAM11218",
+      "name": "Team 11218",
+      "passcode": "TLD-MRET5C",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12015",
+        "12039"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12015",
+          "name": "DEVANSH TIWARI",
+          "is_leader": false,
+          "reg_no": "251090051552",
+          "college": "Manipal Institute of Technology",
+          "phone": "9546530162",
+          "email": "tiwaridevansh289@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12039",
+          "name": "ADITYA GUPTA",
+          "is_leader": true,
+          "reg_no": "251090051560",
+          "college": "Manipal Institute of Technology",
+          "phone": "9812123089",
+          "email": "adityag.gupta.0910@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ADITYA GUPTA",
+      "leaderMobile": "9812123089",
+      "leaderEmail": "adityag.gupta.0910@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10685": {
+      "id": "TECHTEAM10685",
+      "name": "Team 10685",
+      "passcode": "TLD-7572RS",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11342"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11342",
+          "name": "DONTHI VENKATA SAI NIKHIL",
+          "is_leader": true,
+          "reg_no": "240968170",
+          "college": "Manipal Institute of Technology",
+          "phone": "9032299597",
+          "email": "dvsnikhil710@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "DONTHI VENKATA SAI NIKHIL",
+      "leaderMobile": "9032299597",
+      "leaderEmail": "dvsnikhil710@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10582": {
+      "id": "TECHTEAM10582",
+      "name": "Team 10582",
+      "passcode": "TLD-94E2H3",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10691",
+        "10933"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10691",
+          "name": "ATREYA KOLLENGODE",
+          "is_leader": false,
+          "reg_no": "261090051416",
+          "college": "Manipal Institute of Technology",
+          "phone": "9502634848",
+          "email": "atreyak12@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10933",
+          "name": "HITENDRA SATYA GANESH PULI",
+          "is_leader": true,
+          "reg_no": "261090050966",
+          "college": "Manipal Institute of Technology",
+          "phone": "9550219168",
+          "email": "hitendrasgp@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "HITENDRA SATYA GANESH PULI",
+      "leaderMobile": "9550219168",
+      "leaderEmail": "hitendrasgp@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11760": {
+      "id": "TECHTEAM11760",
+      "name": "Team 11760",
+      "passcode": "TLD-CHP4EC",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "11779",
+        "10471"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "11779",
+          "name": "RUDRAKSH RANA",
+          "is_leader": false,
+          "reg_no": "261090040124",
+          "college": "Manipal Institute of Technology",
+          "phone": "9468777766",
+          "email": "rudraksh1.mitmpl2026@learner.manipal.edu",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "10471",
+          "name": "ANAY JALOTA",
+          "is_leader": true,
+          "reg_no": "261090051640",
+          "college": "Manipal Institute of Technology",
+          "phone": "9879100015",
+          "email": "anayjalota1@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "ANAY JALOTA",
+      "leaderMobile": "9879100015",
+      "leaderEmail": "anayjalota1@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM10877": {
+      "id": "TECHTEAM10877",
+      "name": "Team 10877",
+      "passcode": "TLD-37U4YT",
+      "college": "Manipal Institute of Technology",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "12403"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "12403",
+          "name": "PATNASETTY SANJANA",
+          "is_leader": true,
+          "reg_no": "251090050260",
+          "college": "Manipal Institute of Technology",
+          "phone": "8522027759",
+          "email": "patnasetty4@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "MAHE",
+      "leaderName": "PATNASETTY SANJANA",
+      "leaderMobile": "8522027759",
+      "leaderEmail": "patnasetty4@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    },
+    "TECHTEAM11214": {
+      "id": "TECHTEAM11214",
+      "name": "Team 11214",
+      "passcode": "TLD-KE7397",
+      "college": "GEETANJALI COLLEGE OF ENGINEERING AND TECHNOLOGY",
+      "createdAt": "2026-10-14T00:00:00.000Z",
+      "solvedCtfs": [],
+      "events": [],
+      "members": [
+        "10271",
+        "12564"
+      ],
+      "memberDetails": [
+        {
+          "delegate_id": "10271",
+          "name": "PADALA MANYATHA",
+          "is_leader": false,
+          "reg_no": "26R11A05P8",
+          "college": "GEETANJALI COLLEGE OF ENGINEERING AND TECHNOLOGY",
+          "phone": "8374428479",
+          "email": "email.manyatha@gmail.com",
+          "learner_id": ""
+        },
+        {
+          "delegate_id": "12564",
+          "name": "SEELAM CHETANA",
+          "is_leader": true,
+          "reg_no": "26R11A6652",
+          "college": "Geethanjali college of engineering and technology",
+          "phone": "7780610875",
+          "email": "seelamchetana@gmail.com",
+          "learner_id": ""
+        }
+      ],
+      "studentType": "NONMAHE",
+      "leaderName": "SEELAM CHETANA",
+      "leaderMobile": "7780610875",
+      "leaderEmail": "seelamchetana@gmail.com",
+      "completedZones": [],
+      "score": 0,
+      "sanctuaryCompleted": false
+    }
+  },
+  "sessions": {},
+  "submissions": [],
+  "scores": {},
+  "usedSignatures": [],
+  "schemaVersion": 1
+}

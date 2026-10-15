@@ -1,0 +1,61 @@
+{
+  "runtime": "Chromium 144 through DevTools Protocol; not Playwright",
+  "mode": "UI bundle injected into about:blank because managed Chromium policy blocks navigation to localhost; fetch/API responses are mocked in-page. Backend/security behavior is separately covered by node --test.",
+  "assertions": [
+    {
+      "name": "Hero boot and infected title",
+      "status": "PASS",
+      "evidence": "screen=hero; title=THE LAST DATASET"
+    },
+    {
+      "name": "Registration transition",
+      "status": "PASS",
+      "evidence": "registration"
+    },
+    {
+      "name": "Registration to world map",
+      "status": "PASS",
+      "evidence": "screen=map; zones=5; team=The Test Survivors"
+    },
+    {
+      "name": "Locked-zone denial",
+      "status": "PASS",
+      "evidence": "true"
+    },
+    {
+      "name": "Yellow zone opens",
+      "status": "PASS",
+      "evidence": "true"
+    },
+    {
+      "name": "Blue unlock cinematic",
+      "status": "PASS",
+      "evidence": "true"
+    },
+    {
+      "name": "Blue zone opens after all Yellow CTFs",
+      "status": "PASS",
+      "evidence": "true"
+    },
+    {
+      "name": "CTF frame and back navigation",
+      "status": "PASS",
+      "evidence": "frame=true; back=true"
+    },
+    {
+      "name": "Frontend console and runtime exceptions",
+      "status": "PASS",
+      "evidence": "console=0; exceptions=0"
+    }
+  ],
+  "screenshots": [],
+  "frameSequences": [],
+  "consoleErrors": [],
+  "exceptions": [],
+  "limitations": [
+    "Playwright could not be installed in the environment; the UI smoke was driven using Chromium DevTools Protocol instead.",
+    "The browser policy blocks all navigable URLs, so the visual smoke uses source injection and mocked API calls rather than a normal HTTP page load.",
+    "Frame sequences are individual screenshots, not a recorded video.",
+    "Screenshot files from the earlier UI run were intentionally excluded because they contained retired event branding; only text-based smoke results are retained."
+  ]
+}

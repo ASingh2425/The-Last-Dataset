@@ -1,0 +1,26 @@
+{
+  "name": "the-last-dataset-map-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cinematic survival-game hub with server-enforced progression and durable serverless storage support",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node --test tests/evaluator.test.js tests/hub.test.js tests/store.test.js tests/security-audit.test.js tests/two-player-e2e.test.js tests/admin.test.js tests/blue-zone-integration.test.js",
+    "test:integration": "node tests/test-supabase-integration.js",
+    "test:staging:ownership": "node --test tests/staging-score-ownership.test.js",
+    "test:staging:e2e": "node --test tests/two-player-supabase-e2e.test.js",
+    "test:load": "node scripts/load-test.js",
+    "audit:production": "node scripts/verify-production-state.js",
+    "dev:solve": "node scripts/dev-solve.js",
+    "reset:data": "node scripts/reset-data.js",
+    "vercel:dev": "npx vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.117.3"
+  }
+}

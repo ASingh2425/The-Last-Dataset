@@ -1,0 +1,129 @@
+{
+  "zones": [
+    {
+      "id": "yellow",
+      "name": "YELLOW ZONE",
+      "color": "#f5c518",
+      "order": 1,
+      "tagline": "INDUSTRIAL QUARANTINE",
+      "terrain": "The assembly yards still hum beneath the dead power grid.",
+      "position": { "x": 29, "y": 27 },
+      "url": "https://yellow-zone-neon.vercel.app",
+      "transitionSlideshow": "https://yellow-to-blue-slideshow.vercel.app/",
+      "rewardDataset": "community_final",
+      "ctfs": [
+        {
+          "id": "yellow-01",
+          "title": "Industrial Quarantine Investigation",
+          "briefing": "Recover the Community dataset fragment.",
+          "url": "https://yellow-zone-neon.vercel.app",
+          "completion": { "method": "hmac-sha256", "secretEnv": "CTF_SECRET_YELLOW_01" }
+        }
+      ]
+    },
+    {
+      "id": "blue",
+      "name": "BLUE ZONE",
+      "color": "#56c8ff",
+      "order": 2,
+      "tagline": "SUBMERGED SERVER FIELDS",
+      "terrain": "Cold water has swallowed the server farms. Radio transmissions pulse through the static.",
+      "position": { "x": 73, "y": 24 },
+      "url": "https://bluezone-xi.vercel.app/blue-zone",
+      "transitionSlideshow": "https://blue-orange-slideshow-ogib.vercel.app/transition/radio-forensics",
+      "rewardDataset": "radio_final",
+      "ctfs": [
+        {
+          "id": "blue-zone-ctf-01",
+          "title": "Intercepted Message",
+          "briefing": "Correlate degraded packet headers with route hazard warnings.",
+          "url": "https://bluezone-xi.vercel.app/blue-zone",
+          "completion": { "method": "hmac-sha256", "secretEnv": "CTF_SECRET_BLUE_01" }
+        },
+        {
+          "id": "blue-zone-ctf-02",
+          "title": "Compromised Node",
+          "briefing": "Decrypt the compromised relay node communication path.",
+          "url": "https://bluezone-xi.vercel.app/blue-zone",
+          "completion": { "method": "hmac-sha256", "secretEnv": "CTF_SECRET_BLUE_02" }
+        },
+        {
+          "id": "blue-zone-ctf-03",
+          "title": "Recovered Transmission",
+          "briefing": "Recover voice archive VA-07 audio transmission.",
+          "url": "https://bluezone-xi.vercel.app/blue-zone",
+          "completion": { "method": "hmac-sha256", "secretEnv": "CTF_SECRET_BLUE_03" }
+        },
+        {
+          "id": "blue-zone-ctf-04",
+          "title": "Intercepted Carrier",
+          "briefing": "Track carrier wave and geoint navigation target.",
+          "url": "https://bluezone-xi.vercel.app/blue-zone",
+          "completion": { "method": "hmac-sha256", "secretEnv": "CTF_SECRET_BLUE_04" }
+        }
+      ]
+    },
+    {
+      "id": "orange",
+      "name": "ORANGE ZONE",
+      "color": "#ff8b3d",
+      "order": 3,
+      "tagline": "THE BURNING REFINERY",
+      "terrain": "The refinery burns on an endless loop. Forensic integrity is melting in the heat.",
+      "position": { "x": 77, "y": 68 },
+      "url": "https://or-light-gamma.vercel.app/",
+      "transitionSlideshow": "https://orange-to-red-slideshow.vercel.app/transition/radio-forensics",
+      "rewardDataset": "forensics_final",
+      "ctfs": [
+        {
+          "id": "orange-01",
+          "title": "Burning Refinery Forensics",
+          "briefing": "Recover the Forensics dataset fragment.",
+          "url": "https://or-light-gamma.vercel.app/",
+          "completion": { "method": "hmac-sha256", "secretEnv": "CTF_SECRET_ORANGE_01" }
+        }
+      ]
+    },
+    {
+      "id": "red",
+      "name": "RED ZONE",
+      "color": "#ff4058",
+      "order": 4,
+      "tagline": "ACTIVE INFECTION HOTSPOT",
+      "terrain": "The infection is thick enough to distort memory. Research evidence consolidation.",
+      "position": { "x": 26, "y": 70 },
+      "url": "https://red-five-liart.vercel.app/",
+      "transitionSlideshow": "https://red-purple-slideshow.vercel.app/",
+      "rewardDataset": "research_final",
+      "ctfs": [
+        {
+          "id": "red-01",
+          "title": "Infection Telemetry & Research",
+          "briefing": "Recover the Research dataset fragment.",
+          "url": "https://red-five-liart.vercel.app/",
+          "completion": { "method": "hmac-sha256", "secretEnv": "CTF_SECRET_RED_01" }
+        }
+      ]
+    },
+    {
+      "id": "purple",
+      "name": "PURPLE ZONE",
+      "color": "#bc8cff",
+      "order": 5,
+      "tagline": "PRALAYA CORE · ML SURVIVAL EVALUATOR",
+      "terrain": "Reality fractures at the centre of the collapse. Build your model to unlock the escape gate.",
+      "position": { "x": 51, "y": 10 },
+      "url": "/purple",
+      "rewardDataset": null,
+      "ctfs": [
+        {
+          "id": "purple-01",
+          "title": "PRALAYA Core · ML Model Evaluation & Escape",
+          "briefing": "Reconstruct test.csv from all 4 dataset fragments and evaluate predictions to escape.",
+          "url": "/purple",
+          "completion": { "method": "hmac-sha256", "secretEnv": "CTF_SECRET_PURPLE_01" }
+        }
+      ]
+    }
+  ]
+}
