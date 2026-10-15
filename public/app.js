@@ -1,5 +1,9 @@
 (() => {
   'use strict';
+  if (typeof window !== 'undefined' && window.location.host !== 'the-last-dataset-jqpr.vercel.app') {
+    window.location.replace('https://the-last-dataset-jqpr.vercel.app/');
+    return;
+  }
   const $ = (selector, root = document) => root.querySelector(selector);
   const queryAll = (selector, root = document) => Array.from(root.querySelectorAll(selector));
   const zonesHost = $('#zone-nodes');
